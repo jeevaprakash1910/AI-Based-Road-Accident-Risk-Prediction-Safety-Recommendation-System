@@ -1,0 +1,6 @@
+{
+  "name": "RoadGuard",
+  "description": "AI-based road accident risk prediction, Google Maps highway route navigator, and telematics safety recommendation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,1201 @@
+weather,road_condition,traffic_level,visibility,time_of_day,speed_kmh,road_type,lighting,num_vehicles,risk_score,risk_level
+Rainy,Under Construction,Congested,Very Poor (<100m),Morning Rush,89,Residential,Dimly Lit,5,68.0,MEDIUM
+Snow,Under Construction,Moderate,Very Poor (<100m),Afternoon,82,Urban Arterial,Well Lit Street,7,66.3,MEDIUM
+Foggy,Icy,Congested,Poor (100-500m),Dawn,37,Highway,Well Lit Street,8,97,HIGH
+Clear,Wet,Moderate,Moderate (500m-1km),Afternoon,38,Urban Arterial,Dark / No Lights,13,55.9,MEDIUM
+Overcast,Dry,Moderate,Moderate (500m-1km),Morning Rush,98,Urban Arterial,Daylight,33,34.9,LOW
+Rainy,Wet,Moderate,Poor (100-500m),Evening Rush,94,Residential,Dark / No Lights,15,97,HIGH
+Foggy,Dry,Moderate,Moderate (500m-1km),Afternoon,83,Residential,Daylight,29,42.7,MEDIUM
+Rainy,Under Construction,Congested,Poor (100-500m),Evening Rush,110,Residential,Dark / No Lights,22,97,HIGH
+Snow,Dry,Moderate,Good (>1km),Evening Rush,51,Highway,Well Lit Street,25,42.7,MEDIUM
+Rainy,Wet,Moderate,Poor (100-500m),Evening Rush,84,Rural Single Lane,Daylight,31,70.2,HIGH
+Rainy,Under Construction,Congested,Good (>1km),Dawn,44,Highway,Dimly Lit,19,46.1,MEDIUM
+Clear,Under Construction,Congested,Very Poor (<100m),Afternoon,89,Highway,Daylight,29,56.3,MEDIUM
+Clear,Dry,Moderate,Good (>1km),Late Night,114,Rural Single Lane,Daylight,12,47.7,MEDIUM
+Foggy,Under Construction,Congested,Moderate (500m-1km),Morning Rush,77,Highway,Dimly Lit,7,57.8,MEDIUM
+Overcast,Wet,Low,Good (>1km),Morning Rush,36,Ghat / Mountain,Dimly Lit,29,53.3,MEDIUM
+Foggy,Wet,Moderate,Very Poor (<100m),Afternoon,66,Residential,Well Lit Street,21,82.9,HIGH
+Foggy,Wet,Low,Poor (100-500m),Evening Rush,113,Residential,Dark / No Lights,34,97,HIGH
+Foggy,Dry,Moderate,Poor (100-500m),Late Night,101,Highway,Well Lit Street,17,97,HIGH
+Clear,Icy,Low,Poor (100-500m),Afternoon,111,Rural Single Lane,Dimly Lit,16,89.8,HIGH
+Rainy,Wet,Low,Poor (100-500m),Evening Rush,25,Residential,Dimly Lit,35,74.9,HIGH
+Overcast,Potholes / Damaged,Heavy,Poor (100-500m),Evening Rush,31,Rural Single Lane,Daylight,27,66.9,MEDIUM
+Rainy,Potholes / Damaged,Congested,Poor (100-500m),Afternoon,80,Ghat / Mountain,Dark / No Lights,10,97,HIGH
+Overcast,Dry,Moderate,Moderate (500m-1km),Late Night,119,Residential,Dark / No Lights,25,72.3,HIGH
+Foggy,Dry,Moderate,Very Poor (<100m),Dawn,28,Highway,Well Lit Street,29,62.0,MEDIUM
+Foggy,Wet,Moderate,Moderate (500m-1km),Late Night,36,Ghat / Mountain,Dark / No Lights,14,97,HIGH
+Snow,Dry,Heavy,Good (>1km),Afternoon,30,Rural Single Lane,Dimly Lit,2,57.4,MEDIUM
+Overcast,Icy,Low,Poor (100-500m),Morning Rush,81,Ghat / Mountain,Well Lit Street,33,89.9,HIGH
+Snow,Potholes / Damaged,Heavy,Good (>1km),Evening Rush,53,Highway,Dark / No Lights,34,93.4,HIGH
+Foggy,Potholes / Damaged,Heavy,Poor (100-500m),Afternoon,63,Urban Arterial,Well Lit Street,32,95.4,HIGH
+Overcast,Under Construction,Low,Very Poor (<100m),Late Night,97,Residential,Dimly Lit,3,75.3,HIGH
+Rainy,Under Construction,Moderate,Good (>1km),Dawn,111,Ghat / Mountain,Well Lit Street,24,71.9,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Afternoon,76,Residential,Dimly Lit,17,49.5,MEDIUM
+Rainy,Wet,Heavy,Very Poor (<100m),Evening Rush,82,Urban Arterial,Dark / No Lights,25,97,HIGH
+Foggy,Potholes / Damaged,Heavy,Good (>1km),Afternoon,70,Rural Single Lane,Dimly Lit,28,69.1,MEDIUM
+Rainy,Under Construction,Heavy,Moderate (500m-1km),Dawn,108,Rural Single Lane,Dark / No Lights,35,89.3,HIGH
+Foggy,Under Construction,Congested,Moderate (500m-1km),Evening Rush,47,Rural Single Lane,Daylight,34,53.4,MEDIUM
+Foggy,Icy,Heavy,Poor (100-500m),Morning Rush,60,Urban Arterial,Dimly Lit,33,97,HIGH
+Foggy,Dry,Heavy,Poor (100-500m),Late Night,100,Urban Arterial,Dark / No Lights,21,97,HIGH
+Overcast,Potholes / Damaged,Congested,Poor (100-500m),Evening Rush,112,Highway,Dark / No Lights,19,97,HIGH
+Overcast,Wet,Low,Moderate (500m-1km),Evening Rush,65,Residential,Dimly Lit,9,31.0,LOW
+Rainy,Wet,Congested,Moderate (500m-1km),Evening Rush,67,Rural Single Lane,Daylight,25,65.3,MEDIUM
+Foggy,Under Construction,Moderate,Very Poor (<100m),Morning Rush,82,Ghat / Mountain,Dark / No Lights,2,97,HIGH
+Snow,Potholes / Damaged,Moderate,Poor (100-500m),Morning Rush,27,Highway,Dark / No Lights,31,94.8,HIGH
+Overcast,Dry,Low,Very Poor (<100m),Dawn,87,Residential,Daylight,32,38.7,LOW
+Foggy,Wet,Low,Moderate (500m-1km),Morning Rush,80,Urban Arterial,Daylight,13,55.6,MEDIUM
+Clear,Potholes / Damaged,Moderate,Very Poor (<100m),Morning Rush,39,Rural Single Lane,Well Lit Street,24,52.7,MEDIUM
+Snow,Wet,Low,Poor (100-500m),Late Night,36,Urban Arterial,Dimly Lit,31,96.9,HIGH
+Clear,Under Construction,Heavy,Good (>1km),Dawn,49,Ghat / Mountain,Well Lit Street,29,52.3,MEDIUM
+Snow,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,110,Residential,Dark / No Lights,19,97,HIGH
+Foggy,Wet,Heavy,Moderate (500m-1km),Evening Rush,83,Rural Single Lane,Dark / No Lights,2,91.0,HIGH
+Overcast,Potholes / Damaged,Congested,Moderate (500m-1km),Morning Rush,98,Residential,Dimly Lit,10,70.5,HIGH
+Overcast,Under Construction,Low,Good (>1km),Afternoon,106,Urban Arterial,Dark / No Lights,9,53.8,MEDIUM
+Rainy,Under Construction,Low,Good (>1km),Late Night,120,Ghat / Mountain,Dimly Lit,16,89.4,HIGH
+Overcast,Potholes / Damaged,Congested,Very Poor (<100m),Dawn,30,Highway,Daylight,21,69.9,MEDIUM
+Foggy,Under Construction,Congested,Good (>1km),Evening Rush,102,Ghat / Mountain,Well Lit Street,32,97,HIGH
+Foggy,Wet,Moderate,Poor (100-500m),Evening Rush,104,Urban Arterial,Dark / No Lights,15,97,HIGH
+Snow,Wet,Moderate,Poor (100-500m),Afternoon,94,Residential,Well Lit Street,13,97,HIGH
+Clear,Wet,Moderate,Good (>1km),Dawn,59,Highway,Well Lit Street,8,31.5,LOW
+Foggy,Wet,Congested,Moderate (500m-1km),Evening Rush,113,Residential,Dimly Lit,20,96.9,HIGH
+Rainy,Dry,Low,Moderate (500m-1km),Evening Rush,58,Highway,Dark / No Lights,2,49.2,MEDIUM
+Foggy,Wet,Low,Very Poor (<100m),Evening Rush,74,Highway,Dark / No Lights,32,97,HIGH
+Foggy,Dry,Heavy,Good (>1km),Dawn,89,Rural Single Lane,Daylight,24,58.8,MEDIUM
+Overcast,Dry,Heavy,Good (>1km),Dawn,37,Rural Single Lane,Daylight,2,33.4,LOW
+Overcast,Icy,Congested,Poor (100-500m),Evening Rush,92,Rural Single Lane,Dimly Lit,8,97,HIGH
+Snow,Wet,Congested,Poor (100-500m),Evening Rush,93,Highway,Dark / No Lights,5,97,HIGH
+Overcast,Icy,Moderate,Good (>1km),Late Night,115,Highway,Well Lit Street,9,86.5,HIGH
+Snow,Icy,Moderate,Moderate (500m-1km),Late Night,78,Urban Arterial,Daylight,17,92.5,HIGH
+Overcast,Under Construction,Moderate,Very Poor (<100m),Evening Rush,116,Ghat / Mountain,Dark / No Lights,34,97,HIGH
+Snow,Dry,Congested,Moderate (500m-1km),Morning Rush,85,Residential,Dark / No Lights,8,77.5,HIGH
+Rainy,Icy,Moderate,Good (>1km),Evening Rush,50,Highway,Daylight,24,63.2,MEDIUM
+Rainy,Wet,Moderate,Very Poor (<100m),Late Night,97,Rural Single Lane,Well Lit Street,35,97,HIGH
+Foggy,Under Construction,Low,Moderate (500m-1km),Evening Rush,106,Residential,Daylight,24,61.4,MEDIUM
+Clear,Potholes / Damaged,Congested,Good (>1km),Dawn,101,Residential,Well Lit Street,6,71.3,HIGH
+Foggy,Icy,Congested,Good (>1km),Late Night,101,Highway,Dark / No Lights,12,97,HIGH
+Overcast,Under Construction,Moderate,Poor (100-500m),Evening Rush,64,Highway,Well Lit Street,35,36.8,LOW
+Rainy,Dry,Heavy,Very Poor (<100m),Evening Rush,97,Residential,Dark / No Lights,11,97,HIGH
+Clear,Dry,Moderate,Good (>1km),Afternoon,31,Highway,Dark / No Lights,19,37.7,LOW
+Clear,Wet,Low,Very Poor (<100m),Dawn,98,Urban Arterial,Daylight,15,75.6,HIGH
+Foggy,Dry,Low,Poor (100-500m),Morning Rush,55,Urban Arterial,Well Lit Street,12,57.3,MEDIUM
+Snow,Dry,Heavy,Good (>1km),Evening Rush,100,Ghat / Mountain,Dimly Lit,21,97,HIGH
+Clear,Under Construction,Heavy,Poor (100-500m),Late Night,25,Residential,Daylight,4,63.1,MEDIUM
+Clear,Wet,Low,Moderate (500m-1km),Dawn,83,Highway,Dark / No Lights,4,53.6,MEDIUM
+Clear,Under Construction,Moderate,Very Poor (<100m),Morning Rush,36,Rural Single Lane,Daylight,25,36.6,LOW
+Rainy,Icy,Moderate,Good (>1km),Evening Rush,104,Rural Single Lane,Well Lit Street,1,86.1,HIGH
+Foggy,Under Construction,Heavy,Poor (100-500m),Afternoon,37,Highway,Dimly Lit,30,76.4,HIGH
+Clear,Potholes / Damaged,Congested,Poor (100-500m),Morning Rush,81,Highway,Dark / No Lights,31,85.2,HIGH
+Rainy,Icy,Low,Good (>1km),Dawn,51,Highway,Dimly Lit,18,66.7,MEDIUM
+Rainy,Dry,Heavy,Good (>1km),Dawn,105,Residential,Daylight,14,69.2,MEDIUM
+Foggy,Potholes / Damaged,Low,Moderate (500m-1km),Evening Rush,86,Urban Arterial,Well Lit Street,24,51.4,MEDIUM
+Rainy,Dry,Congested,Good (>1km),Evening Rush,89,Ghat / Mountain,Dark / No Lights,21,87.1,HIGH
+Foggy,Potholes / Damaged,Congested,Moderate (500m-1km),Afternoon,111,Rural Single Lane,Dark / No Lights,6,97,HIGH
+Clear,Dry,Moderate,Moderate (500m-1km),Dawn,107,Highway,Dimly Lit,21,40.1,LOW
+Overcast,Potholes / Damaged,Moderate,Moderate (500m-1km),Afternoon,77,Ghat / Mountain,Dimly Lit,27,50.2,MEDIUM
+Foggy,Icy,Moderate,Very Poor (<100m),Evening Rush,50,Rural Single Lane,Dark / No Lights,4,97,HIGH
+Foggy,Wet,Congested,Good (>1km),Evening Rush,55,Residential,Dark / No Lights,28,90.4,HIGH
+Snow,Dry,Moderate,Very Poor (<100m),Morning Rush,33,Rural Single Lane,Well Lit Street,9,59.6,MEDIUM
+Clear,Potholes / Damaged,Congested,Poor (100-500m),Evening Rush,113,Rural Single Lane,Dimly Lit,2,93.6,HIGH
+Clear,Wet,Moderate,Moderate (500m-1km),Dawn,117,Residential,Dark / No Lights,30,73.7,HIGH
+Rainy,Icy,Congested,Very Poor (<100m),Evening Rush,73,Rural Single Lane,Dimly Lit,10,97,HIGH
+Overcast,Potholes / Damaged,Congested,Poor (100-500m),Evening Rush,69,Urban Arterial,Dark / No Lights,2,90.6,HIGH
+Foggy,Wet,Heavy,Moderate (500m-1km),Late Night,73,Rural Single Lane,Dimly Lit,31,90.8,HIGH
+Rainy,Icy,Heavy,Good (>1km),Late Night,98,Residential,Well Lit Street,19,97,HIGH
+Clear,Icy,Congested,Good (>1km),Evening Rush,118,Highway,Dark / No Lights,23,97,HIGH
+Overcast,Dry,Heavy,Poor (100-500m),Afternoon,109,Residential,Daylight,22,77.2,HIGH
+Clear,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,97,Residential,Daylight,2,88.5,HIGH
+Clear,Under Construction,Heavy,Good (>1km),Morning Rush,31,Ghat / Mountain,Dark / No Lights,31,68.2,MEDIUM
+Snow,Wet,Congested,Good (>1km),Dawn,65,Ghat / Mountain,Dark / No Lights,34,97,HIGH
+Foggy,Dry,Low,Very Poor (<100m),Morning Rush,108,Rural Single Lane,Well Lit Street,24,86.7,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Afternoon,80,Residential,Dark / No Lights,13,51.5,MEDIUM
+Rainy,Wet,Low,Moderate (500m-1km),Morning Rush,95,Residential,Dark / No Lights,21,92.1,HIGH
+Snow,Potholes / Damaged,Low,Poor (100-500m),Evening Rush,43,Rural Single Lane,Well Lit Street,20,78.3,HIGH
+Overcast,Under Construction,Moderate,Moderate (500m-1km),Evening Rush,46,Residential,Dark / No Lights,35,35.6,LOW
+Clear,Wet,Congested,Good (>1km),Evening Rush,89,Rural Single Lane,Daylight,34,49.7,MEDIUM
+Clear,Under Construction,Low,Poor (100-500m),Late Night,38,Highway,Well Lit Street,29,50.8,MEDIUM
+Foggy,Wet,Low,Very Poor (<100m),Dawn,80,Highway,Dimly Lit,22,77.3,HIGH
+Foggy,Wet,Moderate,Very Poor (<100m),Late Night,31,Residential,Daylight,24,93.5,HIGH
+Rainy,Icy,Congested,Good (>1km),Late Night,66,Rural Single Lane,Daylight,29,97,HIGH
+Overcast,Potholes / Damaged,Low,Very Poor (<100m),Morning Rush,115,Urban Arterial,Dark / No Lights,16,96.8,HIGH
+Clear,Potholes / Damaged,Congested,Poor (100-500m),Morning Rush,48,Highway,Dark / No Lights,32,86.6,HIGH
+Clear,Icy,Moderate,Good (>1km),Late Night,58,Urban Arterial,Dimly Lit,6,63.4,MEDIUM
+Clear,Icy,Congested,Moderate (500m-1km),Morning Rush,44,Ghat / Mountain,Dark / No Lights,32,97,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Afternoon,58,Urban Arterial,Dimly Lit,29,55.8,MEDIUM
+Snow,Potholes / Damaged,Congested,Good (>1km),Morning Rush,90,Residential,Daylight,19,75.6,HIGH
+Clear,Dry,Low,Good (>1km),Evening Rush,115,Highway,Dark / No Lights,23,58.5,MEDIUM
+Snow,Icy,Low,Good (>1km),Morning Rush,71,Urban Arterial,Dark / No Lights,31,97,HIGH
+Rainy,Wet,Moderate,Poor (100-500m),Dawn,56,Residential,Daylight,22,74.0,HIGH
+Rainy,Potholes / Damaged,Congested,Very Poor (<100m),Morning Rush,48,Residential,Dimly Lit,35,82.5,HIGH
+Foggy,Dry,Low,Very Poor (<100m),Evening Rush,51,Rural Single Lane,Daylight,6,62.0,MEDIUM
+Snow,Wet,Low,Very Poor (<100m),Morning Rush,90,Rural Single Lane,Dimly Lit,16,80.0,HIGH
+Overcast,Icy,Heavy,Moderate (500m-1km),Late Night,94,Rural Single Lane,Daylight,17,97,HIGH
+Foggy,Icy,Moderate,Moderate (500m-1km),Dawn,33,Urban Arterial,Dimly Lit,25,76.3,HIGH
+Overcast,Dry,Heavy,Moderate (500m-1km),Afternoon,79,Rural Single Lane,Daylight,11,33.5,LOW
+Snow,Potholes / Damaged,Congested,Poor (100-500m),Afternoon,73,Residential,Dimly Lit,10,93.0,HIGH
+Foggy,Icy,Low,Moderate (500m-1km),Afternoon,75,Urban Arterial,Daylight,25,71.5,HIGH
+Clear,Wet,Moderate,Moderate (500m-1km),Dawn,117,Urban Arterial,Well Lit Street,14,56.7,MEDIUM
+Rainy,Wet,Congested,Poor (100-500m),Late Night,115,Urban Arterial,Dimly Lit,17,97,HIGH
+Foggy,Under Construction,Moderate,Very Poor (<100m),Morning Rush,35,Rural Single Lane,Well Lit Street,2,63.5,MEDIUM
+Rainy,Icy,Heavy,Poor (100-500m),Morning Rush,84,Residential,Well Lit Street,21,97,HIGH
+Snow,Icy,Heavy,Poor (100-500m),Morning Rush,86,Ghat / Mountain,Daylight,15,97,HIGH
+Clear,Icy,Congested,Poor (100-500m),Morning Rush,34,Ghat / Mountain,Dimly Lit,30,97,HIGH
+Rainy,Wet,Heavy,Poor (100-500m),Evening Rush,35,Urban Arterial,Well Lit Street,17,87.1,HIGH
+Rainy,Dry,Heavy,Good (>1km),Morning Rush,87,Highway,Dimly Lit,20,52.4,MEDIUM
+Clear,Icy,Low,Good (>1km),Late Night,63,Ghat / Mountain,Dimly Lit,31,85.0,HIGH
+Rainy,Icy,Low,Poor (100-500m),Late Night,111,Highway,Daylight,17,97,HIGH
+Foggy,Potholes / Damaged,Moderate,Moderate (500m-1km),Morning Rush,79,Residential,Daylight,31,56.7,MEDIUM
+Foggy,Under Construction,Low,Poor (100-500m),Late Night,72,Ghat / Mountain,Well Lit Street,31,95.3,HIGH
+Foggy,Under Construction,Low,Moderate (500m-1km),Evening Rush,111,Urban Arterial,Dark / No Lights,21,78.4,HIGH
+Clear,Icy,Low,Moderate (500m-1km),Late Night,27,Residential,Dark / No Lights,16,80.1,HIGH
+Clear,Potholes / Damaged,Low,Moderate (500m-1km),Late Night,110,Ghat / Mountain,Dimly Lit,20,84.7,HIGH
+Overcast,Potholes / Damaged,Low,Moderate (500m-1km),Afternoon,107,Ghat / Mountain,Well Lit Street,11,67.8,MEDIUM
+Clear,Icy,Low,Very Poor (<100m),Morning Rush,48,Residential,Well Lit Street,19,73.6,HIGH
+Clear,Under Construction,Congested,Moderate (500m-1km),Dawn,107,Ghat / Mountain,Dimly Lit,20,69.2,MEDIUM
+Overcast,Potholes / Damaged,Moderate,Moderate (500m-1km),Dawn,94,Highway,Dimly Lit,23,52.4,MEDIUM
+Clear,Icy,Congested,Poor (100-500m),Morning Rush,51,Rural Single Lane,Well Lit Street,32,87.2,HIGH
+Rainy,Icy,Heavy,Poor (100-500m),Morning Rush,87,Urban Arterial,Well Lit Street,18,97,HIGH
+Foggy,Under Construction,Heavy,Good (>1km),Morning Rush,119,Highway,Daylight,26,74.3,HIGH
+Foggy,Wet,Heavy,Good (>1km),Evening Rush,80,Residential,Dark / No Lights,15,93.3,HIGH
+Overcast,Wet,Congested,Good (>1km),Dawn,72,Urban Arterial,Daylight,31,45.0,MEDIUM
+Foggy,Potholes / Damaged,Moderate,Poor (100-500m),Morning Rush,51,Residential,Dark / No Lights,29,97,HIGH
+Snow,Icy,Heavy,Poor (100-500m),Dawn,67,Residential,Dimly Lit,3,97,HIGH
+Foggy,Under Construction,Congested,Good (>1km),Late Night,110,Ghat / Mountain,Dimly Lit,1,97,HIGH
+Overcast,Dry,Low,Moderate (500m-1km),Dawn,38,Ghat / Mountain,Dark / No Lights,12,56.3,MEDIUM
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Afternoon,105,Highway,Daylight,16,63.2,MEDIUM
+Overcast,Under Construction,Moderate,Good (>1km),Late Night,51,Rural Single Lane,Dimly Lit,7,25.7,LOW
+Clear,Dry,Heavy,Poor (100-500m),Dawn,37,Residential,Dark / No Lights,33,74.0,HIGH
+Clear,Dry,Moderate,Very Poor (<100m),Evening Rush,120,Urban Arterial,Dark / No Lights,25,79.8,HIGH
+Foggy,Wet,Moderate,Moderate (500m-1km),Late Night,81,Ghat / Mountain,Dark / No Lights,21,97,HIGH
+Overcast,Under Construction,Low,Very Poor (<100m),Morning Rush,83,Residential,Dimly Lit,5,39.2,LOW
+Snow,Wet,Congested,Very Poor (<100m),Morning Rush,25,Urban Arterial,Well Lit Street,34,97,HIGH
+Foggy,Potholes / Damaged,Low,Poor (100-500m),Evening Rush,81,Rural Single Lane,Daylight,14,72.2,HIGH
+Clear,Under Construction,Moderate,Poor (100-500m),Dawn,51,Urban Arterial,Daylight,16,35.8,LOW
+Overcast,Icy,Congested,Moderate (500m-1km),Late Night,54,Rural Single Lane,Dimly Lit,30,75.6,HIGH
+Clear,Under Construction,Moderate,Very Poor (<100m),Late Night,60,Ghat / Mountain,Dimly Lit,3,72.6,HIGH
+Snow,Dry,Heavy,Very Poor (<100m),Late Night,62,Urban Arterial,Well Lit Street,1,96.4,HIGH
+Rainy,Wet,Heavy,Good (>1km),Afternoon,92,Residential,Dark / No Lights,31,97,HIGH
+Overcast,Under Construction,Congested,Very Poor (<100m),Dawn,73,Highway,Dark / No Lights,12,72.0,HIGH
+Overcast,Icy,Heavy,Moderate (500m-1km),Dawn,55,Highway,Dimly Lit,10,66.2,MEDIUM
+Rainy,Dry,Low,Good (>1km),Morning Rush,26,Ghat / Mountain,Well Lit Street,27,53.5,MEDIUM
+Overcast,Wet,Low,Poor (100-500m),Evening Rush,50,Urban Arterial,Dimly Lit,34,51.2,MEDIUM
+Overcast,Potholes / Damaged,Low,Poor (100-500m),Late Night,86,Highway,Daylight,11,69.6,MEDIUM
+Snow,Dry,Heavy,Poor (100-500m),Dawn,93,Highway,Dimly Lit,6,97,HIGH
+Overcast,Under Construction,Moderate,Good (>1km),Morning Rush,32,Ghat / Mountain,Dark / No Lights,29,57.0,MEDIUM
+Clear,Dry,Congested,Good (>1km),Afternoon,58,Residential,Daylight,31,29.4,LOW
+Foggy,Potholes / Damaged,Moderate,Good (>1km),Dawn,95,Highway,Dimly Lit,12,74.6,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Afternoon,103,Urban Arterial,Well Lit Street,35,52.1,MEDIUM
+Overcast,Dry,Moderate,Moderate (500m-1km),Late Night,30,Urban Arterial,Dark / No Lights,28,45.9,MEDIUM
+Overcast,Under Construction,Congested,Poor (100-500m),Evening Rush,111,Highway,Well Lit Street,17,78.5,HIGH
+Snow,Under Construction,Moderate,Very Poor (<100m),Afternoon,64,Ghat / Mountain,Dimly Lit,30,79.5,HIGH
+Snow,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,53,Urban Arterial,Daylight,2,92.0,HIGH
+Foggy,Icy,Low,Very Poor (<100m),Evening Rush,60,Residential,Dark / No Lights,27,97,HIGH
+Clear,Icy,Moderate,Very Poor (<100m),Morning Rush,104,Residential,Dimly Lit,26,90.7,HIGH
+Overcast,Icy,Low,Very Poor (<100m),Afternoon,117,Residential,Dimly Lit,21,91.4,HIGH
+Rainy,Potholes / Damaged,Heavy,Poor (100-500m),Morning Rush,25,Ghat / Mountain,Daylight,10,97,HIGH
+Overcast,Under Construction,Moderate,Poor (100-500m),Late Night,85,Residential,Well Lit Street,30,52.8,MEDIUM
+Foggy,Dry,Heavy,Moderate (500m-1km),Morning Rush,39,Ghat / Mountain,Dimly Lit,33,69.7,MEDIUM
+Clear,Wet,Heavy,Very Poor (<100m),Dawn,68,Rural Single Lane,Well Lit Street,19,74.9,HIGH
+Snow,Dry,Low,Moderate (500m-1km),Afternoon,47,Urban Arterial,Dimly Lit,34,41.5,LOW
+Clear,Under Construction,Low,Good (>1km),Morning Rush,53,Rural Single Lane,Dimly Lit,6,14.7,LOW
+Rainy,Dry,Heavy,Poor (100-500m),Dawn,102,Ghat / Mountain,Well Lit Street,31,97,HIGH
+Clear,Wet,Heavy,Good (>1km),Afternoon,109,Rural Single Lane,Dimly Lit,29,71.4,HIGH
+Foggy,Wet,Heavy,Good (>1km),Late Night,43,Rural Single Lane,Dimly Lit,3,83.6,HIGH
+Foggy,Dry,Moderate,Good (>1km),Morning Rush,105,Residential,Daylight,19,59.3,MEDIUM
+Clear,Under Construction,Congested,Good (>1km),Afternoon,109,Ghat / Mountain,Well Lit Street,35,69.5,MEDIUM
+Foggy,Icy,Heavy,Moderate (500m-1km),Dawn,38,Urban Arterial,Dimly Lit,10,90.6,HIGH
+Snow,Wet,Heavy,Poor (100-500m),Dawn,97,Ghat / Mountain,Well Lit Street,18,97,HIGH
+Clear,Under Construction,Moderate,Very Poor (<100m),Afternoon,102,Urban Arterial,Daylight,7,62.7,MEDIUM
+Overcast,Icy,Moderate,Very Poor (<100m),Afternoon,110,Residential,Dark / No Lights,27,97,HIGH
+Clear,Under Construction,Congested,Moderate (500m-1km),Late Night,102,Urban Arterial,Dark / No Lights,4,88.9,HIGH
+Rainy,Icy,Heavy,Very Poor (<100m),Afternoon,70,Urban Arterial,Daylight,19,97,HIGH
+Rainy,Wet,Congested,Moderate (500m-1km),Dawn,32,Residential,Daylight,20,63.6,MEDIUM
+Rainy,Under Construction,Moderate,Very Poor (<100m),Morning Rush,59,Rural Single Lane,Dark / No Lights,23,71.6,HIGH
+Rainy,Wet,Moderate,Good (>1km),Dawn,62,Rural Single Lane,Daylight,14,51.0,MEDIUM
+Rainy,Icy,Congested,Good (>1km),Evening Rush,25,Rural Single Lane,Well Lit Street,6,80.7,HIGH
+Clear,Under Construction,Low,Good (>1km),Morning Rush,115,Highway,Dark / No Lights,33,60.0,MEDIUM
+Rainy,Dry,Moderate,Moderate (500m-1km),Dawn,75,Ghat / Mountain,Well Lit Street,34,54.3,MEDIUM
+Overcast,Icy,Congested,Good (>1km),Dawn,66,Ghat / Mountain,Dimly Lit,19,86.0,HIGH
+Foggy,Icy,Heavy,Poor (100-500m),Afternoon,113,Residential,Dimly Lit,15,97,HIGH
+Snow,Wet,Heavy,Very Poor (<100m),Afternoon,88,Rural Single Lane,Daylight,10,95.9,HIGH
+Clear,Under Construction,Moderate,Good (>1km),Dawn,97,Rural Single Lane,Dark / No Lights,10,58.5,MEDIUM
+Clear,Dry,Heavy,Good (>1km),Evening Rush,45,Residential,Dimly Lit,6,28.9,LOW
+Rainy,Wet,Low,Poor (100-500m),Evening Rush,101,Urban Arterial,Dark / No Lights,33,97,HIGH
+Foggy,Wet,Low,Moderate (500m-1km),Afternoon,62,Ghat / Mountain,Dimly Lit,5,73.5,HIGH
+Rainy,Dry,Heavy,Moderate (500m-1km),Dawn,100,Highway,Dimly Lit,24,68.2,MEDIUM
+Rainy,Icy,Low,Very Poor (<100m),Morning Rush,103,Residential,Dark / No Lights,22,97,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Evening Rush,26,Residential,Dimly Lit,16,34.2,LOW
+Overcast,Under Construction,Moderate,Poor (100-500m),Dawn,61,Highway,Dimly Lit,24,40.2,LOW
+Overcast,Under Construction,Heavy,Poor (100-500m),Late Night,62,Urban Arterial,Dimly Lit,18,70.5,HIGH
+Snow,Dry,Moderate,Very Poor (<100m),Late Night,51,Highway,Dimly Lit,20,76.0,HIGH
+Rainy,Wet,Low,Moderate (500m-1km),Late Night,47,Urban Arterial,Well Lit Street,32,66.2,MEDIUM
+Snow,Dry,Congested,Good (>1km),Evening Rush,74,Urban Arterial,Daylight,29,59.5,MEDIUM
+Overcast,Wet,Congested,Moderate (500m-1km),Morning Rush,91,Urban Arterial,Dark / No Lights,2,94.2,HIGH
+Snow,Wet,Heavy,Poor (100-500m),Evening Rush,94,Highway,Daylight,12,97,HIGH
+Clear,Icy,Low,Good (>1km),Dawn,86,Residential,Dimly Lit,15,48.8,MEDIUM
+Overcast,Dry,Moderate,Very Poor (<100m),Late Night,111,Highway,Dimly Lit,7,71.2,HIGH
+Foggy,Icy,Low,Moderate (500m-1km),Morning Rush,82,Residential,Daylight,31,76.1,HIGH
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Afternoon,26,Ghat / Mountain,Dimly Lit,31,65.0,MEDIUM
+Clear,Under Construction,Congested,Moderate (500m-1km),Late Night,107,Ghat / Mountain,Dimly Lit,7,82.6,HIGH
+Rainy,Icy,Moderate,Poor (100-500m),Dawn,57,Highway,Dimly Lit,13,86.1,HIGH
+Foggy,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,26,Ghat / Mountain,Dark / No Lights,34,97,HIGH
+Clear,Potholes / Damaged,Moderate,Moderate (500m-1km),Dawn,47,Residential,Daylight,9,28.2,LOW
+Clear,Potholes / Damaged,Moderate,Good (>1km),Evening Rush,78,Highway,Daylight,27,33.6,LOW
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Afternoon,38,Rural Single Lane,Well Lit Street,6,42.7,MEDIUM
+Snow,Wet,Low,Moderate (500m-1km),Afternoon,85,Residential,Dimly Lit,10,60.6,MEDIUM
+Foggy,Icy,Moderate,Moderate (500m-1km),Afternoon,109,Rural Single Lane,Daylight,3,92.4,HIGH
+Overcast,Potholes / Damaged,Congested,Poor (100-500m),Dawn,67,Ghat / Mountain,Dimly Lit,7,89.2,HIGH
+Foggy,Potholes / Damaged,Heavy,Moderate (500m-1km),Morning Rush,106,Rural Single Lane,Daylight,11,91.3,HIGH
+Snow,Wet,Low,Very Poor (<100m),Dawn,83,Urban Arterial,Dimly Lit,33,78.8,HIGH
+Snow,Dry,Low,Good (>1km),Late Night,66,Urban Arterial,Dark / No Lights,30,77.5,HIGH
+Clear,Icy,Moderate,Good (>1km),Morning Rush,92,Urban Arterial,Well Lit Street,21,72.8,HIGH
+Rainy,Potholes / Damaged,Congested,Moderate (500m-1km),Morning Rush,69,Highway,Dimly Lit,24,62.3,MEDIUM
+Snow,Wet,Low,Good (>1km),Morning Rush,114,Ghat / Mountain,Dark / No Lights,5,97,HIGH
+Snow,Wet,Congested,Very Poor (<100m),Evening Rush,93,Residential,Daylight,3,97,HIGH
+Rainy,Potholes / Damaged,Congested,Poor (100-500m),Afternoon,46,Residential,Well Lit Street,35,88.6,HIGH
+Clear,Under Construction,Heavy,Poor (100-500m),Dawn,84,Urban Arterial,Dark / No Lights,10,70.3,HIGH
+Overcast,Wet,Heavy,Good (>1km),Dawn,45,Highway,Daylight,17,49.4,MEDIUM
+Clear,Wet,Moderate,Good (>1km),Afternoon,86,Residential,Well Lit Street,29,31.7,LOW
+Rainy,Under Construction,Heavy,Very Poor (<100m),Evening Rush,25,Ghat / Mountain,Daylight,20,89.9,HIGH
+Foggy,Dry,Low,Moderate (500m-1km),Dawn,97,Residential,Well Lit Street,25,64.5,MEDIUM
+Rainy,Icy,Congested,Very Poor (<100m),Late Night,39,Urban Arterial,Dark / No Lights,16,97,HIGH
+Overcast,Icy,Congested,Poor (100-500m),Evening Rush,67,Ghat / Mountain,Dimly Lit,14,97,HIGH
+Foggy,Wet,Heavy,Poor (100-500m),Dawn,43,Rural Single Lane,Daylight,7,92.7,HIGH
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,76,Urban Arterial,Dark / No Lights,9,97,HIGH
+Overcast,Icy,Low,Moderate (500m-1km),Morning Rush,100,Urban Arterial,Well Lit Street,4,74.3,HIGH
+Clear,Potholes / Damaged,Congested,Good (>1km),Morning Rush,105,Rural Single Lane,Dimly Lit,18,64.2,MEDIUM
+Foggy,Icy,Heavy,Very Poor (<100m),Late Night,101,Urban Arterial,Dark / No Lights,3,97,HIGH
+Foggy,Dry,Moderate,Good (>1km),Evening Rush,64,Ghat / Mountain,Dimly Lit,16,54.1,MEDIUM
+Snow,Potholes / Damaged,Heavy,Moderate (500m-1km),Evening Rush,50,Residential,Daylight,32,68.4,MEDIUM
+Foggy,Potholes / Damaged,Heavy,Moderate (500m-1km),Late Night,111,Ghat / Mountain,Daylight,33,97,HIGH
+Overcast,Potholes / Damaged,Low,Good (>1km),Late Night,50,Urban Arterial,Dimly Lit,32,47.9,MEDIUM
+Snow,Wet,Moderate,Good (>1km),Evening Rush,96,Highway,Daylight,12,79.1,HIGH
+Foggy,Dry,Heavy,Very Poor (<100m),Afternoon,84,Residential,Well Lit Street,16,77.2,HIGH
+Foggy,Icy,Moderate,Moderate (500m-1km),Late Night,98,Urban Arterial,Well Lit Street,3,97,HIGH
+Foggy,Dry,Low,Poor (100-500m),Evening Rush,46,Ghat / Mountain,Dimly Lit,27,78.9,HIGH
+Clear,Dry,Heavy,Moderate (500m-1km),Dawn,25,Rural Single Lane,Dimly Lit,13,33.6,LOW
+Overcast,Icy,Heavy,Moderate (500m-1km),Evening Rush,112,Urban Arterial,Daylight,3,90.6,HIGH
+Rainy,Wet,Heavy,Very Poor (<100m),Evening Rush,89,Residential,Dark / No Lights,20,97,HIGH
+Snow,Potholes / Damaged,Low,Poor (100-500m),Morning Rush,75,Residential,Well Lit Street,10,81.8,HIGH
+Overcast,Icy,Moderate,Moderate (500m-1km),Morning Rush,109,Residential,Well Lit Street,33,70.3,HIGH
+Snow,Under Construction,Low,Poor (100-500m),Late Night,45,Ghat / Mountain,Well Lit Street,28,97,HIGH
+Snow,Dry,Congested,Poor (100-500m),Evening Rush,100,Rural Single Lane,Dark / No Lights,14,97,HIGH
+Clear,Under Construction,Low,Good (>1km),Late Night,56,Urban Arterial,Daylight,6,30.7,LOW
+Foggy,Potholes / Damaged,Moderate,Very Poor (<100m),Dawn,98,Urban Arterial,Daylight,18,97,HIGH
+Overcast,Icy,Moderate,Good (>1km),Dawn,114,Ghat / Mountain,Dark / No Lights,35,97,HIGH
+Snow,Under Construction,Congested,Moderate (500m-1km),Afternoon,27,Rural Single Lane,Dimly Lit,20,59.3,MEDIUM
+Clear,Wet,Low,Good (>1km),Morning Rush,113,Highway,Dark / No Lights,3,75.5,HIGH
+Rainy,Wet,Low,Poor (100-500m),Afternoon,85,Residential,Well Lit Street,33,70.4,HIGH
+Overcast,Wet,Congested,Good (>1km),Afternoon,74,Residential,Dimly Lit,7,46.9,MEDIUM
+Overcast,Icy,Low,Moderate (500m-1km),Afternoon,27,Urban Arterial,Dimly Lit,28,45.5,MEDIUM
+Rainy,Potholes / Damaged,Congested,Good (>1km),Dawn,62,Highway,Daylight,31,67.2,MEDIUM
+Overcast,Wet,Heavy,Good (>1km),Late Night,103,Highway,Dimly Lit,10,83.4,HIGH
+Overcast,Icy,Heavy,Good (>1km),Afternoon,39,Highway,Dimly Lit,23,63.7,MEDIUM
+Overcast,Dry,Moderate,Moderate (500m-1km),Evening Rush,90,Highway,Dimly Lit,12,13.8,LOW
+Rainy,Dry,Congested,Moderate (500m-1km),Late Night,51,Residential,Dark / No Lights,2,82.1,HIGH
+Rainy,Dry,Moderate,Very Poor (<100m),Evening Rush,103,Ghat / Mountain,Dimly Lit,7,93.2,HIGH
+Snow,Dry,Congested,Good (>1km),Late Night,83,Highway,Well Lit Street,1,68.7,MEDIUM
+Foggy,Dry,Moderate,Good (>1km),Morning Rush,48,Urban Arterial,Well Lit Street,2,40.0,LOW
+Snow,Under Construction,Low,Poor (100-500m),Morning Rush,64,Ghat / Mountain,Well Lit Street,25,84.0,HIGH
+Snow,Wet,Congested,Very Poor (<100m),Late Night,101,Highway,Dark / No Lights,23,97,HIGH
+Foggy,Wet,Low,Very Poor (<100m),Afternoon,104,Rural Single Lane,Dark / No Lights,35,97,HIGH
+Snow,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,109,Highway,Dimly Lit,2,97,HIGH
+Clear,Potholes / Damaged,Moderate,Very Poor (<100m),Dawn,63,Urban Arterial,Well Lit Street,17,51.3,MEDIUM
+Snow,Dry,Low,Moderate (500m-1km),Late Night,112,Residential,Well Lit Street,4,79.9,HIGH
+Overcast,Under Construction,Heavy,Moderate (500m-1km),Late Night,66,Urban Arterial,Dimly Lit,19,44.5,MEDIUM
+Snow,Potholes / Damaged,Congested,Moderate (500m-1km),Afternoon,28,Ghat / Mountain,Dark / No Lights,30,97,HIGH
+Clear,Potholes / Damaged,Congested,Good (>1km),Morning Rush,80,Urban Arterial,Dimly Lit,2,44.2,MEDIUM
+Clear,Dry,Moderate,Good (>1km),Afternoon,54,Rural Single Lane,Dimly Lit,24,12.4,LOW
+Overcast,Wet,Congested,Moderate (500m-1km),Morning Rush,111,Rural Single Lane,Dark / No Lights,10,93.1,HIGH
+Clear,Dry,Heavy,Good (>1km),Afternoon,97,Ghat / Mountain,Well Lit Street,7,72.6,HIGH
+Snow,Icy,Congested,Good (>1km),Dawn,81,Residential,Dark / No Lights,11,97,HIGH
+Overcast,Under Construction,Low,Poor (100-500m),Late Night,85,Ghat / Mountain,Daylight,23,72.0,HIGH
+Rainy,Dry,Heavy,Poor (100-500m),Dawn,72,Ghat / Mountain,Dark / No Lights,13,97,HIGH
+Foggy,Dry,Low,Moderate (500m-1km),Dawn,97,Urban Arterial,Dimly Lit,13,61.8,MEDIUM
+Clear,Icy,Heavy,Moderate (500m-1km),Afternoon,117,Ghat / Mountain,Dimly Lit,24,97,HIGH
+Clear,Dry,Heavy,Moderate (500m-1km),Late Night,111,Rural Single Lane,Dark / No Lights,1,89.6,HIGH
+Snow,Potholes / Damaged,Low,Poor (100-500m),Morning Rush,115,Ghat / Mountain,Well Lit Street,33,97,HIGH
+Foggy,Potholes / Damaged,Heavy,Good (>1km),Evening Rush,36,Urban Arterial,Well Lit Street,12,70.7,HIGH
+Clear,Wet,Moderate,Good (>1km),Late Night,59,Urban Arterial,Well Lit Street,9,49.4,MEDIUM
+Snow,Potholes / Damaged,Congested,Moderate (500m-1km),Afternoon,113,Rural Single Lane,Daylight,5,96.9,HIGH
+Overcast,Dry,Heavy,Poor (100-500m),Dawn,107,Urban Arterial,Dark / No Lights,7,96.3,HIGH
+Snow,Wet,Low,Good (>1km),Afternoon,35,Rural Single Lane,Daylight,16,57.6,MEDIUM
+Snow,Wet,Low,Moderate (500m-1km),Morning Rush,36,Ghat / Mountain,Dark / No Lights,32,97,HIGH
+Overcast,Icy,Moderate,Poor (100-500m),Evening Rush,42,Rural Single Lane,Dimly Lit,28,67.2,MEDIUM
+Overcast,Icy,Moderate,Good (>1km),Evening Rush,96,Highway,Well Lit Street,16,71.3,HIGH
+Foggy,Wet,Heavy,Moderate (500m-1km),Afternoon,89,Urban Arterial,Dark / No Lights,14,89.6,HIGH
+Rainy,Icy,Congested,Moderate (500m-1km),Evening Rush,52,Rural Single Lane,Dimly Lit,33,86.1,HIGH
+Clear,Icy,Heavy,Poor (100-500m),Dawn,47,Residential,Dimly Lit,6,89.7,HIGH
+Clear,Icy,Congested,Very Poor (<100m),Morning Rush,97,Rural Single Lane,Well Lit Street,20,97,HIGH
+Overcast,Under Construction,Heavy,Moderate (500m-1km),Evening Rush,96,Ghat / Mountain,Daylight,1,71.4,HIGH
+Clear,Icy,Heavy,Good (>1km),Late Night,89,Urban Arterial,Well Lit Street,19,75.6,HIGH
+Foggy,Wet,Congested,Moderate (500m-1km),Evening Rush,97,Urban Arterial,Dimly Lit,35,94.8,HIGH
+Snow,Wet,Congested,Moderate (500m-1km),Late Night,78,Urban Arterial,Well Lit Street,15,87.1,HIGH
+Foggy,Under Construction,Heavy,Good (>1km),Morning Rush,62,Ghat / Mountain,Well Lit Street,35,70.6,HIGH
+Overcast,Wet,Heavy,Poor (100-500m),Morning Rush,73,Highway,Daylight,14,74.2,HIGH
+Snow,Under Construction,Heavy,Moderate (500m-1km),Afternoon,38,Highway,Daylight,24,53.8,MEDIUM
+Snow,Dry,Moderate,Very Poor (<100m),Morning Rush,102,Ghat / Mountain,Dimly Lit,2,97,HIGH
+Overcast,Dry,Heavy,Very Poor (<100m),Late Night,71,Urban Arterial,Well Lit Street,7,64.0,MEDIUM
+Foggy,Under Construction,Moderate,Poor (100-500m),Dawn,91,Rural Single Lane,Well Lit Street,19,82.8,HIGH
+Foggy,Icy,Congested,Very Poor (<100m),Evening Rush,94,Residential,Well Lit Street,35,97,HIGH
+Clear,Dry,Heavy,Good (>1km),Evening Rush,57,Highway,Daylight,28,34.4,LOW
+Rainy,Potholes / Damaged,Low,Good (>1km),Evening Rush,90,Residential,Dark / No Lights,7,69.7,MEDIUM
+Snow,Under Construction,Moderate,Very Poor (<100m),Late Night,90,Highway,Dark / No Lights,3,95.0,HIGH
+Clear,Icy,Moderate,Very Poor (<100m),Afternoon,85,Rural Single Lane,Dark / No Lights,11,91.2,HIGH
+Foggy,Potholes / Damaged,Low,Good (>1km),Evening Rush,53,Highway,Dimly Lit,28,51.6,MEDIUM
+Overcast,Dry,Heavy,Poor (100-500m),Morning Rush,96,Urban Arterial,Dimly Lit,12,77.1,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,39,Rural Single Lane,Daylight,10,67.2,MEDIUM
+Overcast,Under Construction,Low,Good (>1km),Morning Rush,53,Highway,Well Lit Street,17,17.3,LOW
+Clear,Under Construction,Congested,Very Poor (<100m),Late Night,110,Ghat / Mountain,Dimly Lit,2,97,HIGH
+Rainy,Under Construction,Low,Moderate (500m-1km),Late Night,42,Residential,Well Lit Street,9,43.9,MEDIUM
+Rainy,Potholes / Damaged,Congested,Moderate (500m-1km),Dawn,115,Residential,Dark / No Lights,6,97,HIGH
+Overcast,Dry,Congested,Very Poor (<100m),Evening Rush,26,Highway,Dimly Lit,16,49.5,MEDIUM
+Foggy,Dry,Congested,Moderate (500m-1km),Morning Rush,37,Highway,Dimly Lit,33,57.9,MEDIUM
+Overcast,Dry,Congested,Poor (100-500m),Evening Rush,93,Highway,Dark / No Lights,3,95.6,HIGH
+Overcast,Potholes / Damaged,Congested,Good (>1km),Morning Rush,84,Highway,Dark / No Lights,35,69.0,MEDIUM
+Overcast,Wet,Moderate,Poor (100-500m),Dawn,106,Ghat / Mountain,Daylight,34,96.0,HIGH
+Rainy,Dry,Heavy,Good (>1km),Afternoon,60,Residential,Dark / No Lights,22,70.6,HIGH
+Overcast,Icy,Heavy,Moderate (500m-1km),Evening Rush,26,Highway,Dark / No Lights,35,84.4,HIGH
+Overcast,Under Construction,Congested,Very Poor (<100m),Morning Rush,49,Rural Single Lane,Dimly Lit,2,56.8,MEDIUM
+Snow,Wet,Moderate,Moderate (500m-1km),Afternoon,34,Urban Arterial,Well Lit Street,12,55.9,MEDIUM
+Foggy,Dry,Moderate,Very Poor (<100m),Afternoon,98,Residential,Daylight,3,86.1,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Dawn,40,Residential,Dimly Lit,1,55.3,MEDIUM
+Snow,Potholes / Damaged,Heavy,Poor (100-500m),Evening Rush,45,Rural Single Lane,Dark / No Lights,7,97,HIGH
+Foggy,Icy,Moderate,Moderate (500m-1km),Late Night,26,Residential,Dark / No Lights,4,97,HIGH
+Rainy,Under Construction,Congested,Very Poor (<100m),Morning Rush,77,Residential,Dark / No Lights,21,88.7,HIGH
+Overcast,Wet,Moderate,Very Poor (<100m),Dawn,46,Rural Single Lane,Dimly Lit,18,51.6,MEDIUM
+Rainy,Wet,Congested,Good (>1km),Evening Rush,99,Urban Arterial,Dimly Lit,33,85.7,HIGH
+Snow,Wet,Heavy,Poor (100-500m),Evening Rush,89,Ghat / Mountain,Daylight,8,97,HIGH
+Foggy,Icy,Heavy,Good (>1km),Morning Rush,61,Highway,Daylight,5,87.6,HIGH
+Overcast,Potholes / Damaged,Low,Good (>1km),Afternoon,107,Urban Arterial,Dimly Lit,24,49.3,MEDIUM
+Foggy,Dry,Congested,Very Poor (<100m),Morning Rush,49,Ghat / Mountain,Dark / No Lights,23,97,HIGH
+Snow,Icy,Low,Poor (100-500m),Morning Rush,37,Rural Single Lane,Dark / No Lights,32,97,HIGH
+Clear,Icy,Low,Good (>1km),Late Night,113,Residential,Well Lit Street,26,81.3,HIGH
+Snow,Icy,Moderate,Very Poor (<100m),Dawn,74,Urban Arterial,Dark / No Lights,34,97,HIGH
+Rainy,Potholes / Damaged,Heavy,Poor (100-500m),Morning Rush,106,Rural Single Lane,Dark / No Lights,32,97,HIGH
+Clear,Under Construction,Low,Very Poor (<100m),Dawn,29,Residential,Daylight,28,36.3,LOW
+Overcast,Icy,Moderate,Very Poor (<100m),Late Night,81,Highway,Dark / No Lights,21,97,HIGH
+Clear,Icy,Low,Poor (100-500m),Afternoon,69,Ghat / Mountain,Dark / No Lights,34,97,HIGH
+Rainy,Potholes / Damaged,Moderate,Very Poor (<100m),Evening Rush,46,Rural Single Lane,Daylight,2,72.8,HIGH
+Clear,Dry,Low,Very Poor (<100m),Dawn,54,Ghat / Mountain,Dark / No Lights,7,77.4,HIGH
+Clear,Dry,Low,Poor (100-500m),Evening Rush,52,Residential,Dark / No Lights,18,55.7,MEDIUM
+Clear,Icy,Heavy,Good (>1km),Late Night,70,Urban Arterial,Daylight,11,81.3,HIGH
+Rainy,Potholes / Damaged,Congested,Moderate (500m-1km),Afternoon,39,Urban Arterial,Dark / No Lights,29,81.5,HIGH
+Rainy,Under Construction,Low,Moderate (500m-1km),Late Night,67,Residential,Dark / No Lights,19,68.2,MEDIUM
+Snow,Icy,Low,Poor (100-500m),Late Night,26,Ghat / Mountain,Dark / No Lights,26,97,HIGH
+Clear,Potholes / Damaged,Congested,Poor (100-500m),Late Night,33,Highway,Dark / No Lights,29,97,HIGH
+Clear,Icy,Congested,Good (>1km),Dawn,68,Highway,Daylight,25,61.5,MEDIUM
+Rainy,Potholes / Damaged,Moderate,Good (>1km),Dawn,63,Urban Arterial,Dark / No Lights,35,70.0,HIGH
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,102,Urban Arterial,Dimly Lit,22,97,HIGH
+Snow,Dry,Heavy,Good (>1km),Afternoon,104,Ghat / Mountain,Daylight,29,97,HIGH
+Snow,Wet,Congested,Very Poor (<100m),Afternoon,100,Urban Arterial,Dimly Lit,10,97,HIGH
+Rainy,Icy,Moderate,Very Poor (<100m),Evening Rush,116,Ghat / Mountain,Daylight,27,97,HIGH
+Foggy,Potholes / Damaged,Low,Good (>1km),Morning Rush,81,Ghat / Mountain,Daylight,10,71.3,HIGH
+Rainy,Icy,Moderate,Poor (100-500m),Morning Rush,118,Rural Single Lane,Daylight,16,97,HIGH
+Snow,Icy,Low,Good (>1km),Late Night,75,Residential,Daylight,5,89.5,HIGH
+Clear,Under Construction,Congested,Very Poor (<100m),Morning Rush,31,Ghat / Mountain,Dimly Lit,29,73.7,HIGH
+Overcast,Potholes / Damaged,Congested,Poor (100-500m),Morning Rush,84,Rural Single Lane,Dark / No Lights,26,90.6,HIGH
+Rainy,Icy,Heavy,Moderate (500m-1km),Morning Rush,90,Ghat / Mountain,Dimly Lit,2,97,HIGH
+Clear,Dry,Heavy,Good (>1km),Late Night,59,Urban Arterial,Well Lit Street,3,46.0,MEDIUM
+Foggy,Dry,Congested,Good (>1km),Afternoon,26,Ghat / Mountain,Daylight,28,74.9,HIGH
+Foggy,Under Construction,Heavy,Poor (100-500m),Evening Rush,66,Highway,Dark / No Lights,9,96.3,HIGH
+Snow,Dry,Moderate,Moderate (500m-1km),Late Night,57,Ghat / Mountain,Dimly Lit,11,70.8,HIGH
+Foggy,Dry,Low,Good (>1km),Late Night,83,Residential,Dark / No Lights,20,72.7,HIGH
+Foggy,Under Construction,Low,Moderate (500m-1km),Late Night,110,Urban Arterial,Well Lit Street,23,76.3,HIGH
+Snow,Icy,Moderate,Moderate (500m-1km),Late Night,97,Highway,Daylight,22,97,HIGH
+Clear,Icy,Moderate,Poor (100-500m),Evening Rush,94,Rural Single Lane,Dimly Lit,35,91.2,HIGH
+Overcast,Icy,Low,Moderate (500m-1km),Evening Rush,46,Highway,Well Lit Street,31,45.3,MEDIUM
+Overcast,Icy,Congested,Very Poor (<100m),Dawn,42,Residential,Dimly Lit,21,84.8,HIGH
+Clear,Icy,Moderate,Moderate (500m-1km),Late Night,116,Residential,Dark / No Lights,6,97,HIGH
+Clear,Wet,Congested,Good (>1km),Evening Rush,84,Residential,Well Lit Street,14,50.6,MEDIUM
+Overcast,Wet,Low,Poor (100-500m),Afternoon,69,Rural Single Lane,Dark / No Lights,13,76.9,HIGH
+Foggy,Icy,Heavy,Moderate (500m-1km),Afternoon,30,Residential,Well Lit Street,13,87.4,HIGH
+Overcast,Under Construction,Moderate,Moderate (500m-1km),Late Night,66,Urban Arterial,Well Lit Street,8,31.3,LOW
+Snow,Dry,Congested,Poor (100-500m),Dawn,57,Ghat / Mountain,Daylight,23,97,HIGH
+Overcast,Dry,Moderate,Good (>1km),Morning Rush,32,Rural Single Lane,Dimly Lit,14,15.6,LOW
+Foggy,Wet,Congested,Moderate (500m-1km),Morning Rush,89,Residential,Daylight,19,69.5,MEDIUM
+Overcast,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,113,Urban Arterial,Dimly Lit,1,90.8,HIGH
+Snow,Dry,Heavy,Poor (100-500m),Evening Rush,80,Residential,Daylight,30,77.1,HIGH
+Rainy,Under Construction,Congested,Good (>1km),Evening Rush,32,Residential,Daylight,26,48.1,MEDIUM
+Rainy,Under Construction,Moderate,Good (>1km),Dawn,46,Highway,Dimly Lit,10,36.5,LOW
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Afternoon,70,Highway,Well Lit Street,26,72.3,HIGH
+Rainy,Wet,Low,Moderate (500m-1km),Afternoon,80,Urban Arterial,Dark / No Lights,6,67.1,MEDIUM
+Overcast,Under Construction,Low,Poor (100-500m),Evening Rush,47,Residential,Daylight,19,40.8,LOW
+Snow,Wet,Moderate,Moderate (500m-1km),Morning Rush,37,Ghat / Mountain,Dark / No Lights,10,94.6,HIGH
+Rainy,Potholes / Damaged,Low,Very Poor (<100m),Dawn,82,Highway,Dimly Lit,1,72.1,HIGH
+Clear,Wet,Low,Good (>1km),Dawn,109,Highway,Well Lit Street,21,53.3,MEDIUM
+Rainy,Potholes / Damaged,Low,Very Poor (<100m),Afternoon,69,Ghat / Mountain,Daylight,5,87.4,HIGH
+Rainy,Dry,Low,Moderate (500m-1km),Afternoon,61,Residential,Well Lit Street,29,33.1,LOW
+Clear,Potholes / Damaged,Low,Very Poor (<100m),Dawn,30,Urban Arterial,Dimly Lit,5,55.0,MEDIUM
+Rainy,Wet,Low,Poor (100-500m),Afternoon,95,Residential,Well Lit Street,21,97,HIGH
+Snow,Wet,Moderate,Moderate (500m-1km),Dawn,36,Residential,Dimly Lit,25,60.9,MEDIUM
+Clear,Potholes / Damaged,Moderate,Poor (100-500m),Dawn,86,Highway,Dark / No Lights,26,68.2,MEDIUM
+Foggy,Wet,Heavy,Good (>1km),Late Night,57,Urban Arterial,Dimly Lit,14,85.2,HIGH
+Rainy,Under Construction,Moderate,Good (>1km),Evening Rush,59,Urban Arterial,Dark / No Lights,33,53.0,MEDIUM
+Snow,Dry,Congested,Very Poor (<100m),Late Night,45,Urban Arterial,Well Lit Street,26,91.7,HIGH
+Rainy,Dry,Congested,Very Poor (<100m),Late Night,106,Rural Single Lane,Dark / No Lights,14,97,HIGH
+Foggy,Icy,Low,Very Poor (<100m),Morning Rush,43,Residential,Daylight,5,93.1,HIGH
+Snow,Wet,Moderate,Very Poor (<100m),Late Night,104,Residential,Daylight,16,97,HIGH
+Snow,Dry,Heavy,Moderate (500m-1km),Dawn,69,Urban Arterial,Daylight,4,56.6,MEDIUM
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Late Night,98,Highway,Dimly Lit,26,97,HIGH
+Clear,Under Construction,Heavy,Very Poor (<100m),Afternoon,64,Highway,Daylight,17,55.4,MEDIUM
+Snow,Potholes / Damaged,Heavy,Moderate (500m-1km),Dawn,58,Ghat / Mountain,Well Lit Street,12,86.4,HIGH
+Foggy,Wet,Heavy,Poor (100-500m),Afternoon,88,Ghat / Mountain,Dark / No Lights,33,97,HIGH
+Overcast,Icy,Heavy,Poor (100-500m),Evening Rush,68,Highway,Daylight,25,90.4,HIGH
+Snow,Icy,Congested,Moderate (500m-1km),Evening Rush,50,Highway,Daylight,26,94.2,HIGH
+Foggy,Wet,Low,Very Poor (<100m),Dawn,50,Urban Arterial,Daylight,31,80.6,HIGH
+Snow,Under Construction,Congested,Good (>1km),Afternoon,30,Ghat / Mountain,Dark / No Lights,32,97,HIGH
+Rainy,Potholes / Damaged,Moderate,Moderate (500m-1km),Late Night,92,Residential,Dark / No Lights,7,97,HIGH
+Clear,Under Construction,Congested,Moderate (500m-1km),Evening Rush,113,Highway,Dark / No Lights,7,75.7,HIGH
+Foggy,Potholes / Damaged,Low,Moderate (500m-1km),Dawn,93,Highway,Dark / No Lights,24,95.7,HIGH
+Rainy,Wet,Moderate,Moderate (500m-1km),Late Night,97,Highway,Daylight,25,85.2,HIGH
+Clear,Potholes / Damaged,Congested,Moderate (500m-1km),Afternoon,30,Residential,Daylight,32,49.1,MEDIUM
+Snow,Dry,Moderate,Very Poor (<100m),Afternoon,48,Ghat / Mountain,Daylight,16,78.1,HIGH
+Snow,Wet,Moderate,Moderate (500m-1km),Dawn,47,Rural Single Lane,Dimly Lit,16,56.1,MEDIUM
+Foggy,Potholes / Damaged,Heavy,Moderate (500m-1km),Afternoon,25,Highway,Dimly Lit,11,72.5,HIGH
+Rainy,Potholes / Damaged,Low,Poor (100-500m),Late Night,28,Highway,Well Lit Street,18,86.3,HIGH
+Rainy,Dry,Low,Moderate (500m-1km),Morning Rush,84,Urban Arterial,Daylight,3,32.9,LOW
+Foggy,Under Construction,Heavy,Good (>1km),Evening Rush,32,Residential,Well Lit Street,15,57.7,MEDIUM
+Foggy,Wet,Heavy,Moderate (500m-1km),Late Night,102,Ghat / Mountain,Dimly Lit,17,97,HIGH
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Dawn,102,Residential,Dark / No Lights,21,97,HIGH
+Foggy,Under Construction,Heavy,Poor (100-500m),Evening Rush,103,Highway,Dark / No Lights,28,97,HIGH
+Clear,Under Construction,Heavy,Good (>1km),Dawn,31,Rural Single Lane,Well Lit Street,31,31.6,LOW
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Evening Rush,38,Residential,Dimly Lit,16,44.4,MEDIUM
+Rainy,Potholes / Damaged,Low,Moderate (500m-1km),Morning Rush,27,Highway,Well Lit Street,23,44.1,MEDIUM
+Overcast,Dry,Congested,Very Poor (<100m),Morning Rush,79,Urban Arterial,Daylight,34,52.6,MEDIUM
+Clear,Under Construction,Moderate,Poor (100-500m),Morning Rush,49,Highway,Dark / No Lights,11,53.8,MEDIUM
+Clear,Under Construction,Low,Moderate (500m-1km),Late Night,76,Ghat / Mountain,Daylight,2,44.6,MEDIUM
+Snow,Wet,Low,Very Poor (<100m),Morning Rush,47,Ghat / Mountain,Dark / No Lights,27,97,HIGH
+Snow,Dry,Congested,Good (>1km),Evening Rush,119,Ghat / Mountain,Dark / No Lights,14,97,HIGH
+Overcast,Under Construction,Moderate,Poor (100-500m),Late Night,35,Urban Arterial,Dark / No Lights,29,73.4,HIGH
+Rainy,Under Construction,Moderate,Moderate (500m-1km),Evening Rush,42,Urban Arterial,Well Lit Street,1,33.8,LOW
+Clear,Icy,Congested,Moderate (500m-1km),Evening Rush,62,Urban Arterial,Dimly Lit,14,61.9,MEDIUM
+Rainy,Wet,Heavy,Very Poor (<100m),Evening Rush,74,Residential,Dark / No Lights,16,97,HIGH
+Overcast,Wet,Congested,Good (>1km),Evening Rush,59,Ghat / Mountain,Daylight,5,64.6,MEDIUM
+Rainy,Under Construction,Heavy,Poor (100-500m),Late Night,92,Residential,Well Lit Street,18,97,HIGH
+Snow,Icy,Moderate,Good (>1km),Morning Rush,69,Ghat / Mountain,Well Lit Street,22,96.5,HIGH
+Rainy,Under Construction,Moderate,Very Poor (<100m),Dawn,118,Urban Arterial,Dark / No Lights,15,94.8,HIGH
+Rainy,Wet,Low,Poor (100-500m),Morning Rush,112,Ghat / Mountain,Daylight,34,97,HIGH
+Snow,Under Construction,Heavy,Good (>1km),Afternoon,77,Rural Single Lane,Dimly Lit,7,54.6,MEDIUM
+Clear,Dry,Congested,Very Poor (<100m),Morning Rush,64,Ghat / Mountain,Daylight,34,69.2,MEDIUM
+Foggy,Icy,Low,Good (>1km),Dawn,77,Highway,Well Lit Street,19,70.4,HIGH
+Snow,Wet,Heavy,Good (>1km),Morning Rush,56,Highway,Well Lit Street,24,75.6,HIGH
+Overcast,Wet,Moderate,Moderate (500m-1km),Morning Rush,66,Ghat / Mountain,Well Lit Street,16,50.8,MEDIUM
+Rainy,Dry,Low,Good (>1km),Morning Rush,91,Urban Arterial,Dark / No Lights,13,73.6,HIGH
+Foggy,Under Construction,Low,Moderate (500m-1km),Dawn,80,Rural Single Lane,Dark / No Lights,27,55.6,MEDIUM
+Snow,Dry,Low,Poor (100-500m),Dawn,44,Ghat / Mountain,Dark / No Lights,31,97,HIGH
+Rainy,Potholes / Damaged,Moderate,Poor (100-500m),Afternoon,29,Highway,Daylight,24,71.7,HIGH
+Clear,Dry,Moderate,Poor (100-500m),Dawn,102,Residential,Well Lit Street,23,55.6,MEDIUM
+Snow,Potholes / Damaged,Low,Poor (100-500m),Afternoon,53,Rural Single Lane,Dark / No Lights,34,97,HIGH
+Snow,Under Construction,Congested,Very Poor (<100m),Dawn,50,Rural Single Lane,Dimly Lit,26,80.3,HIGH
+Rainy,Dry,Congested,Good (>1km),Afternoon,25,Ghat / Mountain,Well Lit Street,27,68.8,MEDIUM
+Overcast,Potholes / Damaged,Heavy,Poor (100-500m),Morning Rush,64,Highway,Dimly Lit,23,66.2,MEDIUM
+Foggy,Potholes / Damaged,Low,Moderate (500m-1km),Evening Rush,34,Highway,Dark / No Lights,8,77.6,HIGH
+Foggy,Under Construction,Congested,Poor (100-500m),Dawn,65,Residential,Well Lit Street,13,80.0,HIGH
+Clear,Dry,Congested,Poor (100-500m),Afternoon,34,Residential,Dimly Lit,29,49.2,MEDIUM
+Clear,Icy,Congested,Moderate (500m-1km),Evening Rush,47,Ghat / Mountain,Daylight,34,81.3,HIGH
+Snow,Wet,Heavy,Poor (100-500m),Late Night,43,Ghat / Mountain,Dimly Lit,13,97,HIGH
+Foggy,Potholes / Damaged,Congested,Moderate (500m-1km),Late Night,100,Residential,Daylight,6,97,HIGH
+Snow,Wet,Heavy,Very Poor (<100m),Morning Rush,48,Highway,Daylight,10,96.8,HIGH
+Overcast,Wet,Congested,Good (>1km),Late Night,30,Rural Single Lane,Dark / No Lights,34,81.7,HIGH
+Overcast,Potholes / Damaged,Heavy,Moderate (500m-1km),Late Night,63,Ghat / Mountain,Daylight,1,75.7,HIGH
+Rainy,Icy,Low,Moderate (500m-1km),Dawn,60,Ghat / Mountain,Well Lit Street,19,82.2,HIGH
+Overcast,Potholes / Damaged,Moderate,Poor (100-500m),Morning Rush,83,Urban Arterial,Well Lit Street,30,48.3,MEDIUM
+Overcast,Wet,Heavy,Moderate (500m-1km),Dawn,92,Rural Single Lane,Well Lit Street,27,69.1,MEDIUM
+Foggy,Dry,Low,Very Poor (<100m),Morning Rush,68,Ghat / Mountain,Dark / No Lights,21,97,HIGH
+Snow,Wet,Low,Very Poor (<100m),Dawn,38,Rural Single Lane,Dimly Lit,23,81.8,HIGH
+Foggy,Wet,Congested,Poor (100-500m),Late Night,80,Ghat / Mountain,Daylight,26,97,HIGH
+Clear,Wet,Heavy,Good (>1km),Dawn,38,Highway,Dimly Lit,10,52.0,MEDIUM
+Overcast,Potholes / Damaged,Moderate,Poor (100-500m),Dawn,28,Rural Single Lane,Dark / No Lights,15,68.6,MEDIUM
+Rainy,Icy,Heavy,Poor (100-500m),Afternoon,76,Residential,Dark / No Lights,6,97,HIGH
+Overcast,Wet,Heavy,Poor (100-500m),Late Night,43,Rural Single Lane,Daylight,31,84.9,HIGH
+Clear,Dry,Heavy,Good (>1km),Morning Rush,46,Highway,Dark / No Lights,5,50.0,MEDIUM
+Rainy,Icy,Low,Good (>1km),Afternoon,59,Residential,Dimly Lit,23,67.6,MEDIUM
+Overcast,Wet,Congested,Good (>1km),Afternoon,107,Ghat / Mountain,Dark / No Lights,22,97,HIGH
+Rainy,Wet,Heavy,Very Poor (<100m),Dawn,93,Residential,Daylight,7,97,HIGH
+Overcast,Potholes / Damaged,Moderate,Good (>1km),Morning Rush,81,Rural Single Lane,Daylight,18,26.3,LOW
+Foggy,Under Construction,Heavy,Poor (100-500m),Late Night,79,Residential,Daylight,2,90.3,HIGH
+Overcast,Potholes / Damaged,Heavy,Good (>1km),Evening Rush,48,Rural Single Lane,Dark / No Lights,17,66.5,MEDIUM
+Overcast,Potholes / Damaged,Congested,Moderate (500m-1km),Late Night,107,Urban Arterial,Well Lit Street,15,79.9,HIGH
+Rainy,Under Construction,Heavy,Good (>1km),Late Night,82,Ghat / Mountain,Dark / No Lights,12,97,HIGH
+Clear,Potholes / Damaged,Low,Poor (100-500m),Evening Rush,97,Residential,Dimly Lit,8,75.6,HIGH
+Clear,Wet,Congested,Good (>1km),Late Night,67,Highway,Daylight,22,63.1,MEDIUM
+Overcast,Wet,Heavy,Poor (100-500m),Afternoon,114,Rural Single Lane,Dark / No Lights,17,97,HIGH
+Foggy,Potholes / Damaged,Low,Good (>1km),Morning Rush,100,Residential,Dark / No Lights,10,92.9,HIGH
+Rainy,Potholes / Damaged,Low,Good (>1km),Late Night,91,Rural Single Lane,Well Lit Street,3,84.3,HIGH
+Overcast,Icy,Low,Moderate (500m-1km),Afternoon,117,Rural Single Lane,Well Lit Street,5,72.9,HIGH
+Rainy,Icy,Low,Moderate (500m-1km),Late Night,45,Urban Arterial,Well Lit Street,5,83.3,HIGH
+Foggy,Potholes / Damaged,Moderate,Very Poor (<100m),Late Night,87,Urban Arterial,Dimly Lit,6,88.5,HIGH
+Foggy,Wet,Moderate,Moderate (500m-1km),Morning Rush,96,Urban Arterial,Daylight,30,77.3,HIGH
+Clear,Potholes / Damaged,Congested,Very Poor (<100m),Afternoon,33,Urban Arterial,Daylight,21,64.9,MEDIUM
+Snow,Potholes / Damaged,Congested,Moderate (500m-1km),Dawn,114,Urban Arterial,Daylight,11,94.4,HIGH
+Rainy,Under Construction,Moderate,Very Poor (<100m),Afternoon,53,Urban Arterial,Dimly Lit,8,57.2,MEDIUM
+Snow,Under Construction,Low,Good (>1km),Dawn,105,Urban Arterial,Dark / No Lights,31,86.6,HIGH
+Overcast,Potholes / Damaged,Congested,Good (>1km),Evening Rush,35,Residential,Dark / No Lights,33,65.7,MEDIUM
+Clear,Dry,Congested,Moderate (500m-1km),Afternoon,53,Rural Single Lane,Well Lit Street,19,32.9,LOW
+Clear,Wet,Low,Good (>1km),Dawn,59,Ghat / Mountain,Well Lit Street,3,47.6,MEDIUM
+Foggy,Dry,Heavy,Poor (100-500m),Afternoon,106,Ghat / Mountain,Dark / No Lights,12,97,HIGH
+Snow,Potholes / Damaged,Congested,Moderate (500m-1km),Late Night,47,Residential,Daylight,32,88.3,HIGH
+Overcast,Wet,Congested,Moderate (500m-1km),Evening Rush,54,Residential,Well Lit Street,2,46.7,MEDIUM
+Clear,Icy,Low,Moderate (500m-1km),Dawn,68,Highway,Dimly Lit,4,49.6,MEDIUM
+Rainy,Icy,Moderate,Poor (100-500m),Morning Rush,45,Urban Arterial,Dark / No Lights,23,97,HIGH
+Rainy,Icy,Congested,Moderate (500m-1km),Dawn,33,Highway,Dark / No Lights,8,97,HIGH
+Snow,Dry,Moderate,Good (>1km),Late Night,111,Residential,Well Lit Street,16,75.5,HIGH
+Snow,Under Construction,Heavy,Moderate (500m-1km),Evening Rush,62,Highway,Daylight,27,59.3,MEDIUM
+Snow,Wet,Congested,Very Poor (<100m),Late Night,35,Urban Arterial,Daylight,32,97,HIGH
+Snow,Potholes / Damaged,Moderate,Moderate (500m-1km),Morning Rush,101,Residential,Dimly Lit,30,80.2,HIGH
+Rainy,Potholes / Damaged,Heavy,Good (>1km),Dawn,34,Ghat / Mountain,Well Lit Street,17,82.7,HIGH
+Foggy,Dry,Low,Very Poor (<100m),Late Night,101,Highway,Well Lit Street,1,97,HIGH
+Clear,Icy,Heavy,Good (>1km),Afternoon,120,Residential,Dark / No Lights,35,97,HIGH
+Rainy,Potholes / Damaged,Moderate,Very Poor (<100m),Late Night,116,Rural Single Lane,Well Lit Street,8,97,HIGH
+Clear,Wet,Low,Moderate (500m-1km),Late Night,96,Residential,Dark / No Lights,16,89.3,HIGH
+Snow,Icy,Heavy,Moderate (500m-1km),Afternoon,111,Urban Arterial,Dark / No Lights,23,97,HIGH
+Rainy,Wet,Heavy,Very Poor (<100m),Late Night,27,Residential,Dark / No Lights,9,97,HIGH
+Clear,Icy,Congested,Moderate (500m-1km),Evening Rush,54,Rural Single Lane,Dimly Lit,17,64.6,MEDIUM
+Clear,Potholes / Damaged,Moderate,Poor (100-500m),Afternoon,89,Highway,Daylight,20,50.2,MEDIUM
+Snow,Dry,Low,Very Poor (<100m),Late Night,82,Rural Single Lane,Dimly Lit,23,77.5,HIGH
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Late Night,60,Residential,Daylight,21,51.2,MEDIUM
+Overcast,Under Construction,Congested,Good (>1km),Dawn,96,Highway,Dark / No Lights,12,76.1,HIGH
+Foggy,Potholes / Damaged,Heavy,Very Poor (<100m),Evening Rush,57,Urban Arterial,Dark / No Lights,3,97,HIGH
+Foggy,Under Construction,Heavy,Very Poor (<100m),Late Night,68,Highway,Dimly Lit,21,92.4,HIGH
+Snow,Under Construction,Low,Very Poor (<100m),Dawn,87,Ghat / Mountain,Well Lit Street,22,83.6,HIGH
+Rainy,Icy,Low,Moderate (500m-1km),Dawn,111,Ghat / Mountain,Daylight,29,97,HIGH
+Clear,Dry,Moderate,Very Poor (<100m),Late Night,77,Urban Arterial,Well Lit Street,8,52.4,MEDIUM
+Clear,Icy,Heavy,Good (>1km),Late Night,52,Ghat / Mountain,Dark / No Lights,17,97,HIGH
+Foggy,Icy,Moderate,Poor (100-500m),Dawn,44,Ghat / Mountain,Dimly Lit,22,97,HIGH
+Snow,Wet,Moderate,Moderate (500m-1km),Afternoon,96,Ghat / Mountain,Well Lit Street,19,97,HIGH
+Overcast,Wet,Low,Moderate (500m-1km),Afternoon,114,Highway,Daylight,8,58.3,MEDIUM
+Snow,Icy,Congested,Moderate (500m-1km),Late Night,66,Residential,Well Lit Street,4,97,HIGH
+Rainy,Wet,Moderate,Moderate (500m-1km),Afternoon,79,Highway,Daylight,2,51.6,MEDIUM
+Rainy,Under Construction,Congested,Poor (100-500m),Afternoon,34,Highway,Well Lit Street,19,70.8,HIGH
+Overcast,Icy,Moderate,Good (>1km),Dawn,41,Highway,Well Lit Street,6,52.3,MEDIUM
+Clear,Dry,Congested,Good (>1km),Late Night,50,Ghat / Mountain,Well Lit Street,6,66.9,MEDIUM
+Overcast,Under Construction,Congested,Poor (100-500m),Morning Rush,71,Rural Single Lane,Dimly Lit,31,55.6,MEDIUM
+Snow,Wet,Congested,Very Poor (<100m),Dawn,60,Rural Single Lane,Daylight,33,97,HIGH
+Overcast,Under Construction,Low,Moderate (500m-1km),Evening Rush,48,Ghat / Mountain,Daylight,2,34.2,LOW
+Rainy,Wet,Low,Poor (100-500m),Afternoon,119,Ghat / Mountain,Well Lit Street,6,97,HIGH
+Clear,Icy,Moderate,Poor (100-500m),Morning Rush,93,Rural Single Lane,Dark / No Lights,7,97,HIGH
+Rainy,Icy,Heavy,Poor (100-500m),Late Night,55,Highway,Daylight,5,97,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Afternoon,53,Highway,Dark / No Lights,27,53.4,MEDIUM
+Foggy,Icy,Congested,Good (>1km),Late Night,41,Urban Arterial,Dimly Lit,3,97,HIGH
+Clear,Wet,Moderate,Very Poor (<100m),Morning Rush,114,Residential,Well Lit Street,20,78.5,HIGH
+Overcast,Potholes / Damaged,Low,Moderate (500m-1km),Dawn,70,Highway,Daylight,18,28.8,LOW
+Foggy,Dry,Heavy,Poor (100-500m),Late Night,104,Residential,Dark / No Lights,31,97,HIGH
+Foggy,Potholes / Damaged,Heavy,Poor (100-500m),Dawn,87,Ghat / Mountain,Well Lit Street,29,97,HIGH
+Clear,Wet,Low,Moderate (500m-1km),Late Night,81,Residential,Dark / No Lights,33,66.2,MEDIUM
+Snow,Wet,Low,Moderate (500m-1km),Evening Rush,81,Residential,Well Lit Street,2,56.1,MEDIUM
+Rainy,Potholes / Damaged,Low,Very Poor (<100m),Evening Rush,75,Ghat / Mountain,Daylight,11,85.3,HIGH
+Clear,Dry,Congested,Good (>1km),Morning Rush,106,Highway,Dark / No Lights,23,75.4,HIGH
+Clear,Icy,Heavy,Moderate (500m-1km),Morning Rush,36,Rural Single Lane,Dimly Lit,26,68.0,MEDIUM
+Snow,Dry,Congested,Very Poor (<100m),Morning Rush,50,Residential,Daylight,24,75.6,HIGH
+Snow,Under Construction,Moderate,Moderate (500m-1km),Evening Rush,81,Urban Arterial,Dimly Lit,28,41.0,LOW
+Overcast,Under Construction,Congested,Good (>1km),Evening Rush,118,Urban Arterial,Dark / No Lights,5,75.0,HIGH
+Clear,Icy,Moderate,Poor (100-500m),Evening Rush,107,Highway,Dark / No Lights,28,97,HIGH
+Rainy,Under Construction,Low,Moderate (500m-1km),Evening Rush,105,Ghat / Mountain,Dark / No Lights,3,90.8,HIGH
+Overcast,Icy,Heavy,Poor (100-500m),Morning Rush,87,Residential,Well Lit Street,35,89.9,HIGH
+Rainy,Potholes / Damaged,Congested,Good (>1km),Morning Rush,40,Rural Single Lane,Dimly Lit,23,62.8,MEDIUM
+Overcast,Wet,Moderate,Moderate (500m-1km),Dawn,30,Highway,Dark / No Lights,20,55.2,MEDIUM
+Overcast,Icy,Low,Very Poor (<100m),Afternoon,33,Urban Arterial,Dark / No Lights,17,91.6,HIGH
+Clear,Potholes / Damaged,Congested,Moderate (500m-1km),Late Night,32,Urban Arterial,Daylight,35,63.1,MEDIUM
+Snow,Potholes / Damaged,Heavy,Good (>1km),Dawn,104,Highway,Well Lit Street,35,97,HIGH
+Foggy,Icy,Congested,Moderate (500m-1km),Dawn,69,Urban Arterial,Dark / No Lights,34,97,HIGH
+Rainy,Wet,Moderate,Poor (100-500m),Evening Rush,111,Residential,Dark / No Lights,17,97,HIGH
+Rainy,Wet,Moderate,Very Poor (<100m),Late Night,107,Residential,Daylight,23,97,HIGH
+Foggy,Under Construction,Heavy,Moderate (500m-1km),Evening Rush,73,Highway,Daylight,10,53.2,MEDIUM
+Foggy,Dry,Congested,Very Poor (<100m),Morning Rush,53,Ghat / Mountain,Dark / No Lights,24,97,HIGH
+Foggy,Dry,Heavy,Poor (100-500m),Morning Rush,42,Urban Arterial,Dimly Lit,6,75.1,HIGH
+Clear,Potholes / Damaged,Moderate,Moderate (500m-1km),Afternoon,60,Highway,Daylight,2,28.0,LOW
+Overcast,Under Construction,Moderate,Moderate (500m-1km),Late Night,37,Highway,Well Lit Street,12,27.0,LOW
+Clear,Under Construction,Congested,Poor (100-500m),Dawn,52,Residential,Well Lit Street,9,49.6,MEDIUM
+Foggy,Icy,Moderate,Very Poor (<100m),Afternoon,106,Highway,Daylight,22,97,HIGH
+Overcast,Wet,Low,Good (>1km),Evening Rush,66,Urban Arterial,Well Lit Street,29,34.4,LOW
+Foggy,Under Construction,Congested,Very Poor (<100m),Late Night,98,Ghat / Mountain,Well Lit Street,23,97,HIGH
+Rainy,Icy,Low,Poor (100-500m),Morning Rush,104,Rural Single Lane,Well Lit Street,25,97,HIGH
+Clear,Under Construction,Moderate,Poor (100-500m),Late Night,56,Urban Arterial,Dimly Lit,27,50.6,MEDIUM
+Rainy,Icy,Moderate,Good (>1km),Afternoon,55,Highway,Dark / No Lights,3,87.3,HIGH
+Snow,Potholes / Damaged,Heavy,Good (>1km),Dawn,98,Ghat / Mountain,Dark / No Lights,30,97,HIGH
+Snow,Dry,Heavy,Good (>1km),Afternoon,105,Highway,Daylight,3,81.7,HIGH
+Clear,Wet,Moderate,Very Poor (<100m),Morning Rush,51,Residential,Well Lit Street,23,58.9,MEDIUM
+Overcast,Dry,Congested,Moderate (500m-1km),Late Night,97,Ghat / Mountain,Dimly Lit,24,85.9,HIGH
+Clear,Dry,Congested,Very Poor (<100m),Evening Rush,53,Urban Arterial,Daylight,7,49.7,MEDIUM
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,83,Ghat / Mountain,Dark / No Lights,5,97,HIGH
+Rainy,Under Construction,Heavy,Moderate (500m-1km),Morning Rush,75,Residential,Dimly Lit,13,52.9,MEDIUM
+Snow,Wet,Low,Very Poor (<100m),Afternoon,87,Ghat / Mountain,Dimly Lit,17,97,HIGH
+Foggy,Wet,Congested,Moderate (500m-1km),Afternoon,28,Ghat / Mountain,Well Lit Street,26,90.0,HIGH
+Snow,Icy,Congested,Poor (100-500m),Evening Rush,66,Urban Arterial,Well Lit Street,24,97,HIGH
+Snow,Under Construction,Heavy,Poor (100-500m),Dawn,48,Highway,Well Lit Street,23,76.0,HIGH
+Rainy,Potholes / Damaged,Congested,Moderate (500m-1km),Morning Rush,28,Urban Arterial,Daylight,2,62.3,MEDIUM
+Rainy,Dry,Moderate,Good (>1km),Morning Rush,65,Residential,Daylight,14,29.6,LOW
+Rainy,Wet,Heavy,Good (>1km),Afternoon,115,Urban Arterial,Well Lit Street,24,91.9,HIGH
+Foggy,Wet,Congested,Good (>1km),Dawn,61,Rural Single Lane,Well Lit Street,10,75.7,HIGH
+Overcast,Under Construction,Low,Good (>1km),Evening Rush,25,Residential,Dimly Lit,16,18.2,LOW
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Morning Rush,41,Rural Single Lane,Well Lit Street,7,35.7,LOW
+Rainy,Wet,Low,Very Poor (<100m),Late Night,91,Highway,Dark / No Lights,1,97,HIGH
+Foggy,Dry,Heavy,Moderate (500m-1km),Morning Rush,74,Highway,Dark / No Lights,20,71.5,HIGH
+Snow,Under Construction,Moderate,Good (>1km),Dawn,53,Highway,Well Lit Street,30,44.2,MEDIUM
+Overcast,Icy,Congested,Poor (100-500m),Afternoon,36,Urban Arterial,Daylight,7,84.6,HIGH
+Rainy,Dry,Moderate,Very Poor (<100m),Afternoon,72,Urban Arterial,Well Lit Street,17,55.7,MEDIUM
+Clear,Icy,Heavy,Very Poor (<100m),Afternoon,95,Residential,Dark / No Lights,26,97,HIGH
+Overcast,Potholes / Damaged,Moderate,Moderate (500m-1km),Morning Rush,26,Ghat / Mountain,Dimly Lit,29,45.1,MEDIUM
+Rainy,Dry,Low,Very Poor (<100m),Morning Rush,107,Highway,Well Lit Street,16,80.1,HIGH
+Rainy,Potholes / Damaged,Moderate,Very Poor (<100m),Late Night,32,Ghat / Mountain,Well Lit Street,21,97,HIGH
+Clear,Wet,Heavy,Good (>1km),Morning Rush,103,Ghat / Mountain,Dark / No Lights,28,97,HIGH
+Overcast,Icy,Heavy,Very Poor (<100m),Morning Rush,112,Highway,Well Lit Street,13,97,HIGH
+Rainy,Wet,Heavy,Moderate (500m-1km),Late Night,66,Ghat / Mountain,Dimly Lit,5,97,HIGH
+Rainy,Wet,Moderate,Very Poor (<100m),Dawn,57,Rural Single Lane,Daylight,17,71.6,HIGH
+Rainy,Dry,Moderate,Very Poor (<100m),Morning Rush,89,Urban Arterial,Dark / No Lights,32,71.4,HIGH
+Snow,Under Construction,Low,Very Poor (<100m),Evening Rush,48,Ghat / Mountain,Dimly Lit,31,83.9,HIGH
+Clear,Potholes / Damaged,Heavy,Good (>1km),Late Night,80,Ghat / Mountain,Dark / No Lights,30,97,HIGH
+Clear,Icy,Moderate,Very Poor (<100m),Afternoon,83,Highway,Daylight,1,73.2,HIGH
+Clear,Dry,Heavy,Very Poor (<100m),Dawn,107,Highway,Dark / No Lights,4,94.2,HIGH
+Rainy,Icy,Heavy,Very Poor (<100m),Evening Rush,61,Highway,Daylight,9,97,HIGH
+Snow,Under Construction,Moderate,Moderate (500m-1km),Dawn,56,Rural Single Lane,Daylight,1,40.1,LOW
+Snow,Dry,Low,Moderate (500m-1km),Afternoon,36,Rural Single Lane,Daylight,23,37.6,LOW
+Overcast,Dry,Congested,Moderate (500m-1km),Late Night,32,Residential,Dark / No Lights,30,65.2,MEDIUM
+Snow,Icy,Moderate,Very Poor (<100m),Evening Rush,118,Urban Arterial,Dark / No Lights,27,97,HIGH
+Snow,Icy,Congested,Very Poor (<100m),Evening Rush,117,Residential,Daylight,21,97,HIGH
+Snow,Wet,Heavy,Very Poor (<100m),Afternoon,87,Highway,Well Lit Street,26,93.3,HIGH
+Foggy,Icy,Heavy,Good (>1km),Afternoon,116,Ghat / Mountain,Dark / No Lights,31,97,HIGH
+Clear,Under Construction,Heavy,Moderate (500m-1km),Late Night,119,Highway,Well Lit Street,28,67.4,MEDIUM
+Rainy,Potholes / Damaged,Low,Good (>1km),Late Night,35,Highway,Daylight,21,63.1,MEDIUM
+Snow,Dry,Heavy,Good (>1km),Afternoon,51,Urban Arterial,Dark / No Lights,2,75.7,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,29,Highway,Dimly Lit,21,66.3,MEDIUM
+Rainy,Potholes / Damaged,Low,Poor (100-500m),Afternoon,75,Residential,Well Lit Street,28,72.3,HIGH
+Clear,Dry,Heavy,Poor (100-500m),Late Night,58,Urban Arterial,Daylight,29,68.0,MEDIUM
+Clear,Dry,Low,Good (>1km),Morning Rush,49,Urban Arterial,Well Lit Street,22,13.6,LOW
+Rainy,Icy,Congested,Poor (100-500m),Evening Rush,53,Residential,Dimly Lit,11,97,HIGH
+Rainy,Dry,Congested,Poor (100-500m),Afternoon,35,Highway,Dark / No Lights,2,88.0,HIGH
+Overcast,Dry,Heavy,Moderate (500m-1km),Dawn,83,Urban Arterial,Dark / No Lights,26,50.5,MEDIUM
+Overcast,Dry,Low,Poor (100-500m),Evening Rush,80,Urban Arterial,Dark / No Lights,21,59.5,MEDIUM
+Clear,Dry,Heavy,Good (>1km),Afternoon,35,Highway,Well Lit Street,23,34.6,LOW
+Rainy,Dry,Low,Poor (100-500m),Dawn,68,Residential,Dimly Lit,10,53.6,MEDIUM
+Rainy,Wet,Moderate,Very Poor (<100m),Late Night,53,Ghat / Mountain,Daylight,23,97,HIGH
+Rainy,Wet,Congested,Good (>1km),Morning Rush,102,Urban Arterial,Dimly Lit,13,90.3,HIGH
+Snow,Potholes / Damaged,Heavy,Poor (100-500m),Evening Rush,103,Urban Arterial,Dimly Lit,22,97,HIGH
+Clear,Under Construction,Congested,Very Poor (<100m),Morning Rush,55,Highway,Dark / No Lights,4,75.3,HIGH
+Rainy,Under Construction,Low,Good (>1km),Evening Rush,106,Residential,Dark / No Lights,12,75.6,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Morning Rush,68,Urban Arterial,Daylight,23,29.0,LOW
+Clear,Potholes / Damaged,Moderate,Poor (100-500m),Afternoon,52,Rural Single Lane,Daylight,5,50.3,MEDIUM
+Snow,Dry,Congested,Moderate (500m-1km),Late Night,113,Rural Single Lane,Daylight,11,91.5,HIGH
+Rainy,Icy,Moderate,Very Poor (<100m),Morning Rush,70,Rural Single Lane,Well Lit Street,34,85.3,HIGH
+Clear,Potholes / Damaged,Heavy,Poor (100-500m),Late Night,115,Urban Arterial,Well Lit Street,20,97,HIGH
+Foggy,Icy,Congested,Good (>1km),Morning Rush,28,Highway,Well Lit Street,3,86.4,HIGH
+Snow,Under Construction,Congested,Good (>1km),Afternoon,97,Urban Arterial,Dark / No Lights,18,97,HIGH
+Overcast,Potholes / Damaged,Moderate,Poor (100-500m),Dawn,55,Residential,Dimly Lit,15,52.0,MEDIUM
+Snow,Dry,Congested,Good (>1km),Evening Rush,97,Residential,Dark / No Lights,10,96.3,HIGH
+Foggy,Potholes / Damaged,Congested,Poor (100-500m),Dawn,73,Rural Single Lane,Daylight,20,91.0,HIGH
+Clear,Icy,Low,Moderate (500m-1km),Dawn,29,Urban Arterial,Well Lit Street,17,47.4,MEDIUM
+Rainy,Dry,Moderate,Very Poor (<100m),Evening Rush,103,Rural Single Lane,Dimly Lit,20,77.7,HIGH
+Foggy,Icy,Congested,Moderate (500m-1km),Dawn,44,Ghat / Mountain,Dark / No Lights,15,97,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Morning Rush,112,Ghat / Mountain,Dark / No Lights,4,97,HIGH
+Overcast,Potholes / Damaged,Low,Moderate (500m-1km),Morning Rush,105,Residential,Daylight,23,52.2,MEDIUM
+Foggy,Icy,Heavy,Good (>1km),Afternoon,110,Ghat / Mountain,Dimly Lit,17,97,HIGH
+Rainy,Dry,Low,Very Poor (<100m),Dawn,88,Highway,Dark / No Lights,13,77.4,HIGH
+Overcast,Icy,Congested,Very Poor (<100m),Evening Rush,37,Rural Single Lane,Dark / No Lights,19,97,HIGH
+Clear,Under Construction,Low,Moderate (500m-1km),Morning Rush,61,Ghat / Mountain,Dimly Lit,23,33.0,LOW
+Snow,Wet,Heavy,Good (>1km),Late Night,57,Residential,Dark / No Lights,32,97,HIGH
+Foggy,Dry,Moderate,Poor (100-500m),Dawn,109,Rural Single Lane,Daylight,4,80.1,HIGH
+Rainy,Wet,Low,Moderate (500m-1km),Afternoon,78,Highway,Dark / No Lights,16,73.9,HIGH
+Overcast,Wet,Heavy,Good (>1km),Evening Rush,38,Rural Single Lane,Dimly Lit,16,52.3,MEDIUM
+Foggy,Icy,Moderate,Poor (100-500m),Morning Rush,83,Rural Single Lane,Dimly Lit,27,91.8,HIGH
+Foggy,Wet,Congested,Good (>1km),Dawn,109,Highway,Daylight,8,92.8,HIGH
+Snow,Potholes / Damaged,Low,Poor (100-500m),Evening Rush,75,Highway,Daylight,21,76.1,HIGH
+Clear,Dry,Congested,Good (>1km),Morning Rush,49,Ghat / Mountain,Dark / No Lights,8,72.2,HIGH
+Rainy,Potholes / Damaged,Moderate,Poor (100-500m),Evening Rush,78,Urban Arterial,Dark / No Lights,22,86.4,HIGH
+Foggy,Wet,Heavy,Good (>1km),Afternoon,44,Ghat / Mountain,Dimly Lit,26,88.2,HIGH
+Overcast,Wet,Low,Moderate (500m-1km),Afternoon,59,Urban Arterial,Well Lit Street,6,31.0,LOW
+Snow,Under Construction,Heavy,Good (>1km),Morning Rush,79,Rural Single Lane,Dark / No Lights,20,73.7,HIGH
+Snow,Icy,Heavy,Very Poor (<100m),Afternoon,119,Ghat / Mountain,Dark / No Lights,17,97,HIGH
+Clear,Dry,Congested,Poor (100-500m),Morning Rush,70,Ghat / Mountain,Daylight,9,70.4,HIGH
+Snow,Wet,Congested,Moderate (500m-1km),Dawn,103,Ghat / Mountain,Dark / No Lights,12,97,HIGH
+Overcast,Dry,Heavy,Good (>1km),Late Night,28,Urban Arterial,Daylight,35,47.4,MEDIUM
+Snow,Dry,Heavy,Moderate (500m-1km),Morning Rush,81,Residential,Dimly Lit,13,58.1,MEDIUM
+Snow,Icy,Congested,Moderate (500m-1km),Late Night,82,Ghat / Mountain,Dimly Lit,2,97,HIGH
+Snow,Under Construction,Congested,Good (>1km),Afternoon,115,Highway,Well Lit Street,35,78.6,HIGH
+Rainy,Under Construction,Heavy,Good (>1km),Dawn,114,Ghat / Mountain,Well Lit Street,12,87.0,HIGH
+Snow,Icy,Congested,Poor (100-500m),Evening Rush,39,Ghat / Mountain,Well Lit Street,24,97,HIGH
+Overcast,Potholes / Damaged,Low,Moderate (500m-1km),Late Night,32,Rural Single Lane,Well Lit Street,26,45.1,MEDIUM
+Clear,Under Construction,Heavy,Moderate (500m-1km),Dawn,81,Ghat / Mountain,Well Lit Street,34,53.0,MEDIUM
+Foggy,Potholes / Damaged,Heavy,Poor (100-500m),Dawn,47,Highway,Daylight,16,93.5,HIGH
+Clear,Icy,Heavy,Good (>1km),Afternoon,116,Highway,Dimly Lit,1,83.3,HIGH
+Overcast,Under Construction,Moderate,Good (>1km),Morning Rush,35,Ghat / Mountain,Dimly Lit,29,37.0,LOW
+Foggy,Wet,Congested,Poor (100-500m),Dawn,96,Ghat / Mountain,Daylight,14,97,HIGH
+Rainy,Under Construction,Moderate,Very Poor (<100m),Evening Rush,108,Urban Arterial,Well Lit Street,32,76.6,HIGH
+Snow,Dry,Moderate,Very Poor (<100m),Dawn,71,Urban Arterial,Dark / No Lights,15,84.7,HIGH
+Clear,Icy,Congested,Very Poor (<100m),Evening Rush,77,Ghat / Mountain,Well Lit Street,24,97,HIGH
+Rainy,Under Construction,Low,Poor (100-500m),Dawn,72,Highway,Daylight,3,58.3,MEDIUM
+Snow,Dry,Low,Moderate (500m-1km),Evening Rush,66,Residential,Daylight,2,44.1,MEDIUM
+Rainy,Wet,Heavy,Poor (100-500m),Late Night,56,Ghat / Mountain,Dimly Lit,15,97,HIGH
+Overcast,Icy,Heavy,Good (>1km),Dawn,96,Rural Single Lane,Dimly Lit,24,89.1,HIGH
+Foggy,Dry,Heavy,Moderate (500m-1km),Afternoon,105,Residential,Dark / No Lights,24,97,HIGH
+Snow,Wet,Congested,Very Poor (<100m),Morning Rush,87,Residential,Dark / No Lights,15,97,HIGH
+Foggy,Icy,Heavy,Good (>1km),Afternoon,44,Highway,Well Lit Street,19,87.3,HIGH
+Rainy,Under Construction,Congested,Moderate (500m-1km),Dawn,77,Ghat / Mountain,Well Lit Street,9,64.9,MEDIUM
+Clear,Dry,Low,Poor (100-500m),Afternoon,100,Rural Single Lane,Dark / No Lights,25,79.6,HIGH
+Rainy,Under Construction,Congested,Moderate (500m-1km),Morning Rush,27,Urban Arterial,Dimly Lit,29,49.9,MEDIUM
+Foggy,Dry,Moderate,Good (>1km),Afternoon,64,Ghat / Mountain,Dimly Lit,29,56.0,MEDIUM
+Clear,Under Construction,Congested,Good (>1km),Morning Rush,38,Ghat / Mountain,Dimly Lit,24,51.9,MEDIUM
+Snow,Dry,Low,Very Poor (<100m),Afternoon,66,Residential,Dimly Lit,29,62.4,MEDIUM
+Snow,Potholes / Damaged,Moderate,Poor (100-500m),Late Night,97,Rural Single Lane,Well Lit Street,21,97,HIGH
+Overcast,Potholes / Damaged,Heavy,Poor (100-500m),Afternoon,56,Rural Single Lane,Dark / No Lights,5,86.8,HIGH
+Rainy,Potholes / Damaged,Heavy,Good (>1km),Late Night,74,Urban Arterial,Dimly Lit,27,77.5,HIGH
+Snow,Potholes / Damaged,Moderate,Moderate (500m-1km),Morning Rush,88,Rural Single Lane,Daylight,5,54.1,MEDIUM
+Snow,Dry,Congested,Good (>1km),Morning Rush,91,Residential,Dark / No Lights,24,97,HIGH
+Clear,Wet,Low,Very Poor (<100m),Dawn,52,Rural Single Lane,Well Lit Street,33,55.3,MEDIUM
+Foggy,Under Construction,Heavy,Poor (100-500m),Afternoon,58,Urban Arterial,Dark / No Lights,11,94.2,HIGH
+Foggy,Potholes / Damaged,Heavy,Moderate (500m-1km),Afternoon,55,Ghat / Mountain,Dark / No Lights,15,97,HIGH
+Overcast,Under Construction,Heavy,Very Poor (<100m),Morning Rush,113,Residential,Dark / No Lights,31,95.2,HIGH
+Snow,Potholes / Damaged,Moderate,Moderate (500m-1km),Morning Rush,45,Rural Single Lane,Daylight,17,59.8,MEDIUM
+Rainy,Under Construction,Moderate,Good (>1km),Afternoon,96,Urban Arterial,Dimly Lit,8,56.1,MEDIUM
+Overcast,Wet,Moderate,Very Poor (<100m),Afternoon,60,Rural Single Lane,Dark / No Lights,7,76.9,HIGH
+Foggy,Icy,Congested,Poor (100-500m),Afternoon,46,Ghat / Mountain,Dark / No Lights,17,97,HIGH
+Clear,Potholes / Damaged,Congested,Very Poor (<100m),Morning Rush,26,Residential,Well Lit Street,16,71.1,HIGH
+Foggy,Wet,Low,Poor (100-500m),Afternoon,86,Highway,Dimly Lit,28,79.0,HIGH
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Evening Rush,113,Residential,Daylight,32,94.3,HIGH
+Clear,Wet,Congested,Poor (100-500m),Late Night,98,Highway,Daylight,14,97,HIGH
+Clear,Dry,Moderate,Poor (100-500m),Afternoon,84,Rural Single Lane,Well Lit Street,34,37.1,LOW
+Clear,Icy,Congested,Very Poor (<100m),Late Night,89,Residential,Dimly Lit,31,97,HIGH
+Foggy,Wet,Heavy,Moderate (500m-1km),Afternoon,114,Rural Single Lane,Daylight,10,96.4,HIGH
+Clear,Under Construction,Moderate,Good (>1km),Late Night,82,Rural Single Lane,Daylight,34,31.8,LOW
+Snow,Under Construction,Heavy,Very Poor (<100m),Morning Rush,113,Highway,Well Lit Street,3,97,HIGH
+Clear,Icy,Heavy,Poor (100-500m),Afternoon,37,Residential,Well Lit Street,18,84.7,HIGH
+Rainy,Wet,Moderate,Moderate (500m-1km),Morning Rush,93,Rural Single Lane,Well Lit Street,19,76.1,HIGH
+Rainy,Under Construction,Heavy,Good (>1km),Late Night,69,Rural Single Lane,Dark / No Lights,25,82.4,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Morning Rush,98,Highway,Daylight,15,50.4,MEDIUM
+Snow,Potholes / Damaged,Heavy,Moderate (500m-1km),Dawn,62,Ghat / Mountain,Well Lit Street,35,89.2,HIGH
+Snow,Wet,Moderate,Very Poor (<100m),Evening Rush,31,Urban Arterial,Dark / No Lights,18,97,HIGH
+Foggy,Under Construction,Heavy,Very Poor (<100m),Evening Rush,33,Urban Arterial,Dimly Lit,5,75.4,HIGH
+Overcast,Potholes / Damaged,Moderate,Good (>1km),Dawn,101,Ghat / Mountain,Daylight,20,69.7,MEDIUM
+Clear,Wet,Moderate,Moderate (500m-1km),Morning Rush,50,Urban Arterial,Daylight,5,32.5,LOW
+Foggy,Potholes / Damaged,Low,Good (>1km),Afternoon,78,Highway,Well Lit Street,1,54.7,MEDIUM
+Clear,Under Construction,Congested,Very Poor (<100m),Afternoon,79,Residential,Dimly Lit,8,53.7,MEDIUM
+Foggy,Under Construction,Low,Very Poor (<100m),Dawn,65,Rural Single Lane,Daylight,26,58.5,MEDIUM
+Snow,Dry,Low,Good (>1km),Late Night,91,Highway,Well Lit Street,7,76.5,HIGH
+Clear,Under Construction,Low,Moderate (500m-1km),Evening Rush,36,Rural Single Lane,Daylight,27,17.5,LOW
+Overcast,Icy,Low,Very Poor (<100m),Late Night,37,Highway,Dimly Lit,11,85.1,HIGH
+Overcast,Wet,Heavy,Poor (100-500m),Afternoon,34,Ghat / Mountain,Well Lit Street,4,90.6,HIGH
+Foggy,Potholes / Damaged,Congested,Moderate (500m-1km),Evening Rush,25,Highway,Well Lit Street,22,73.5,HIGH
+Snow,Icy,Congested,Good (>1km),Morning Rush,37,Residential,Dimly Lit,24,94.5,HIGH
+Rainy,Wet,Congested,Good (>1km),Morning Rush,76,Residential,Daylight,20,70.2,HIGH
+Foggy,Under Construction,Heavy,Good (>1km),Evening Rush,47,Ghat / Mountain,Dark / No Lights,22,90.0,HIGH
+Overcast,Dry,Moderate,Good (>1km),Evening Rush,67,Highway,Dark / No Lights,7,37.3,LOW
+Overcast,Wet,Low,Poor (100-500m),Dawn,102,Residential,Daylight,1,75.9,HIGH
+Overcast,Icy,Congested,Poor (100-500m),Evening Rush,89,Rural Single Lane,Daylight,28,90.0,HIGH
+Snow,Dry,Heavy,Good (>1km),Evening Rush,73,Rural Single Lane,Well Lit Street,27,59.8,MEDIUM
+Clear,Potholes / Damaged,Low,Very Poor (<100m),Late Night,104,Urban Arterial,Dimly Lit,26,84.5,HIGH
+Snow,Dry,Low,Very Poor (<100m),Late Night,33,Ghat / Mountain,Well Lit Street,8,96.2,HIGH
+Snow,Icy,Moderate,Good (>1km),Dawn,36,Residential,Dimly Lit,25,75.7,HIGH
+Overcast,Dry,Heavy,Very Poor (<100m),Dawn,58,Urban Arterial,Well Lit Street,1,50.0,MEDIUM
+Foggy,Wet,Low,Poor (100-500m),Evening Rush,95,Urban Arterial,Dimly Lit,5,97,HIGH
+Foggy,Icy,Low,Good (>1km),Morning Rush,106,Rural Single Lane,Dark / No Lights,5,97,HIGH
+Rainy,Icy,Heavy,Poor (100-500m),Evening Rush,92,Rural Single Lane,Dimly Lit,22,97,HIGH
+Overcast,Under Construction,Moderate,Poor (100-500m),Late Night,90,Rural Single Lane,Dimly Lit,24,54.7,MEDIUM
+Clear,Under Construction,Congested,Moderate (500m-1km),Evening Rush,98,Ghat / Mountain,Daylight,3,73.8,HIGH
+Overcast,Dry,Heavy,Good (>1km),Afternoon,33,Ghat / Mountain,Well Lit Street,22,51.5,MEDIUM
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Morning Rush,120,Highway,Well Lit Street,17,94.2,HIGH
+Clear,Wet,Low,Moderate (500m-1km),Afternoon,66,Rural Single Lane,Daylight,19,30.6,LOW
+Rainy,Potholes / Damaged,Low,Very Poor (<100m),Morning Rush,76,Rural Single Lane,Dark / No Lights,21,89.1,HIGH
+Snow,Potholes / Damaged,Heavy,Good (>1km),Evening Rush,116,Residential,Daylight,30,90.8,HIGH
+Rainy,Potholes / Damaged,Congested,Good (>1km),Late Night,67,Ghat / Mountain,Dimly Lit,26,95.8,HIGH
+Clear,Wet,Low,Moderate (500m-1km),Morning Rush,53,Urban Arterial,Daylight,24,31.6,LOW
+Rainy,Dry,Moderate,Good (>1km),Afternoon,41,Residential,Dark / No Lights,16,49.8,MEDIUM
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Evening Rush,108,Ghat / Mountain,Dark / No Lights,15,97,HIGH
+Rainy,Dry,Heavy,Very Poor (<100m),Evening Rush,98,Urban Arterial,Dark / No Lights,34,97,HIGH
+Clear,Potholes / Damaged,Heavy,Poor (100-500m),Late Night,104,Rural Single Lane,Dark / No Lights,17,97,HIGH
+Foggy,Wet,Heavy,Very Poor (<100m),Morning Rush,79,Rural Single Lane,Dark / No Lights,33,97,HIGH
+Foggy,Dry,Congested,Good (>1km),Morning Rush,48,Urban Arterial,Dark / No Lights,28,76.3,HIGH
+Snow,Dry,Moderate,Very Poor (<100m),Morning Rush,53,Residential,Well Lit Street,8,61.0,MEDIUM
+Clear,Under Construction,Heavy,Poor (100-500m),Afternoon,54,Highway,Well Lit Street,25,52.3,MEDIUM
+Snow,Icy,Heavy,Poor (100-500m),Evening Rush,56,Urban Arterial,Well Lit Street,1,97,HIGH
+Snow,Potholes / Damaged,Low,Good (>1km),Afternoon,71,Rural Single Lane,Well Lit Street,3,57.3,MEDIUM
+Rainy,Icy,Congested,Very Poor (<100m),Dawn,87,Ghat / Mountain,Dimly Lit,12,97,HIGH
+Foggy,Dry,Heavy,Moderate (500m-1km),Morning Rush,33,Residential,Well Lit Street,2,53.9,MEDIUM
+Foggy,Wet,Moderate,Moderate (500m-1km),Late Night,44,Urban Arterial,Dimly Lit,1,69.0,MEDIUM
+Clear,Potholes / Damaged,Moderate,Good (>1km),Evening Rush,81,Residential,Well Lit Street,19,29.0,LOW
+Clear,Under Construction,Congested,Moderate (500m-1km),Late Night,92,Residential,Daylight,18,66.4,MEDIUM
+Overcast,Dry,Moderate,Poor (100-500m),Late Night,53,Residential,Dark / No Lights,22,72.6,HIGH
+Overcast,Under Construction,Congested,Poor (100-500m),Evening Rush,27,Rural Single Lane,Daylight,18,53.7,MEDIUM
+Snow,Potholes / Damaged,Congested,Poor (100-500m),Dawn,99,Urban Arterial,Well Lit Street,34,97,HIGH
+Rainy,Under Construction,Low,Moderate (500m-1km),Dawn,98,Highway,Dimly Lit,7,58.5,MEDIUM
+Overcast,Under Construction,Moderate,Moderate (500m-1km),Morning Rush,32,Highway,Daylight,6,16.6,LOW
+Foggy,Icy,Congested,Good (>1km),Morning Rush,105,Urban Arterial,Dark / No Lights,6,97,HIGH
+Clear,Icy,Moderate,Good (>1km),Morning Rush,34,Ghat / Mountain,Dimly Lit,22,70.2,HIGH
+Rainy,Icy,Low,Very Poor (<100m),Morning Rush,104,Urban Arterial,Dimly Lit,16,97,HIGH
+Overcast,Under Construction,Moderate,Poor (100-500m),Morning Rush,67,Urban Arterial,Dark / No Lights,2,60.0,MEDIUM
+Foggy,Dry,Low,Very Poor (<100m),Late Night,74,Urban Arterial,Well Lit Street,5,73.9,HIGH
+Rainy,Dry,Moderate,Poor (100-500m),Dawn,33,Ghat / Mountain,Well Lit Street,4,74.6,HIGH
+Rainy,Dry,Low,Good (>1km),Late Night,106,Ghat / Mountain,Dimly Lit,19,87.2,HIGH
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Dawn,80,Rural Single Lane,Dark / No Lights,11,66.3,MEDIUM
+Overcast,Dry,Low,Good (>1km),Dawn,32,Rural Single Lane,Daylight,29,17.7,LOW
+Rainy,Wet,Moderate,Very Poor (<100m),Afternoon,66,Urban Arterial,Daylight,14,71.0,HIGH
+Snow,Icy,Congested,Good (>1km),Dawn,57,Highway,Dimly Lit,15,92.3,HIGH
+Snow,Potholes / Damaged,Congested,Poor (100-500m),Dawn,36,Urban Arterial,Daylight,23,96.4,HIGH
+Overcast,Potholes / Damaged,Moderate,Poor (100-500m),Dawn,86,Ghat / Mountain,Daylight,35,66.1,MEDIUM
+Snow,Wet,Moderate,Good (>1km),Late Night,30,Residential,Daylight,6,73.9,HIGH
+Snow,Under Construction,Congested,Very Poor (<100m),Evening Rush,92,Highway,Dimly Lit,23,97,HIGH
+Overcast,Dry,Moderate,Good (>1km),Morning Rush,39,Ghat / Mountain,Well Lit Street,30,31.8,LOW
+Snow,Icy,Low,Good (>1km),Dawn,66,Residential,Dimly Lit,19,77.3,HIGH
+Foggy,Potholes / Damaged,Moderate,Moderate (500m-1km),Late Night,78,Urban Arterial,Dimly Lit,7,67.8,MEDIUM
+Foggy,Dry,Heavy,Poor (100-500m),Morning Rush,55,Urban Arterial,Dark / No Lights,14,93.4,HIGH
+Clear,Under Construction,Moderate,Very Poor (<100m),Late Night,115,Ghat / Mountain,Daylight,19,92.3,HIGH
+Foggy,Dry,Moderate,Poor (100-500m),Evening Rush,108,Highway,Dimly Lit,11,82.7,HIGH
+Rainy,Potholes / Damaged,Congested,Poor (100-500m),Late Night,108,Urban Arterial,Dimly Lit,22,97,HIGH
+Overcast,Dry,Low,Moderate (500m-1km),Afternoon,87,Highway,Well Lit Street,16,18.5,LOW
+Overcast,Under Construction,Low,Moderate (500m-1km),Morning Rush,35,Ghat / Mountain,Dimly Lit,32,34.8,LOW
+Clear,Icy,Heavy,Poor (100-500m),Morning Rush,41,Highway,Dimly Lit,14,86.6,HIGH
+Snow,Wet,Moderate,Moderate (500m-1km),Late Night,50,Urban Arterial,Dimly Lit,29,69.3,MEDIUM
+Snow,Under Construction,Moderate,Good (>1km),Late Night,46,Ghat / Mountain,Dimly Lit,18,76.3,HIGH
+Foggy,Wet,Heavy,Moderate (500m-1km),Afternoon,43,Urban Arterial,Dark / No Lights,7,90.1,HIGH
+Overcast,Icy,Heavy,Poor (100-500m),Late Night,83,Ghat / Mountain,Well Lit Street,7,97,HIGH
+Rainy,Under Construction,Heavy,Moderate (500m-1km),Afternoon,94,Highway,Daylight,26,68.8,MEDIUM
+Rainy,Under Construction,Congested,Very Poor (<100m),Evening Rush,91,Rural Single Lane,Dark / No Lights,19,97,HIGH
+Foggy,Dry,Heavy,Moderate (500m-1km),Afternoon,114,Rural Single Lane,Dark / No Lights,29,94.7,HIGH
+Clear,Wet,Moderate,Moderate (500m-1km),Late Night,71,Highway,Dimly Lit,8,44.8,MEDIUM
+Overcast,Under Construction,Low,Moderate (500m-1km),Morning Rush,28,Residential,Daylight,15,15.5,LOW
+Foggy,Wet,Congested,Very Poor (<100m),Late Night,38,Residential,Daylight,4,97,HIGH
+Overcast,Potholes / Damaged,Low,Moderate (500m-1km),Morning Rush,27,Residential,Dimly Lit,28,30.3,LOW
+Snow,Icy,Moderate,Very Poor (<100m),Evening Rush,25,Residential,Dark / No Lights,6,97,HIGH
+Foggy,Under Construction,Heavy,Good (>1km),Morning Rush,72,Urban Arterial,Dark / No Lights,19,75.1,HIGH
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Dawn,106,Residential,Daylight,18,60.8,MEDIUM
+Foggy,Wet,Low,Very Poor (<100m),Late Night,91,Urban Arterial,Well Lit Street,13,97,HIGH
+Overcast,Under Construction,Low,Moderate (500m-1km),Late Night,115,Residential,Dimly Lit,28,54.0,MEDIUM
+Foggy,Wet,Low,Moderate (500m-1km),Dawn,99,Rural Single Lane,Dark / No Lights,10,97,HIGH
+Snow,Potholes / Damaged,Moderate,Very Poor (<100m),Dawn,92,Rural Single Lane,Dark / No Lights,14,97,HIGH
+Rainy,Dry,Heavy,Poor (100-500m),Afternoon,87,Urban Arterial,Dimly Lit,25,74.2,HIGH
+Foggy,Potholes / Damaged,Congested,Very Poor (<100m),Morning Rush,85,Residential,Dark / No Lights,26,97,HIGH
+Foggy,Under Construction,Moderate,Poor (100-500m),Afternoon,30,Ghat / Mountain,Daylight,10,80.3,HIGH
+Overcast,Wet,Low,Moderate (500m-1km),Afternoon,33,Rural Single Lane,Dimly Lit,31,35.6,LOW
+Clear,Wet,Moderate,Poor (100-500m),Evening Rush,114,Residential,Dark / No Lights,1,97,HIGH
+Rainy,Wet,Congested,Very Poor (<100m),Afternoon,51,Highway,Dark / No Lights,7,97,HIGH
+Rainy,Icy,Heavy,Very Poor (<100m),Evening Rush,113,Urban Arterial,Dark / No Lights,20,97,HIGH
+Overcast,Dry,Low,Poor (100-500m),Evening Rush,98,Ghat / Mountain,Dark / No Lights,5,93.6,HIGH
+Foggy,Icy,Congested,Very Poor (<100m),Late Night,47,Highway,Dark / No Lights,34,97,HIGH
+Rainy,Wet,Congested,Good (>1km),Morning Rush,27,Ghat / Mountain,Dark / No Lights,16,97,HIGH
+Clear,Dry,Low,Very Poor (<100m),Dawn,95,Highway,Well Lit Street,27,60.8,MEDIUM
+Clear,Icy,Congested,Good (>1km),Late Night,117,Residential,Dark / No Lights,25,97,HIGH
+Snow,Potholes / Damaged,Moderate,Moderate (500m-1km),Dawn,88,Residential,Well Lit Street,16,58.9,MEDIUM
+Rainy,Wet,Congested,Moderate (500m-1km),Dawn,118,Residential,Dimly Lit,26,92.3,HIGH
+Rainy,Dry,Congested,Poor (100-500m),Dawn,109,Highway,Well Lit Street,17,95.4,HIGH
+Overcast,Potholes / Damaged,Heavy,Very Poor (<100m),Afternoon,94,Urban Arterial,Well Lit Street,19,88.0,HIGH
+Snow,Wet,Moderate,Moderate (500m-1km),Afternoon,30,Urban Arterial,Daylight,28,61.4,MEDIUM
+Foggy,Icy,Moderate,Poor (100-500m),Dawn,79,Highway,Dark / No Lights,21,97,HIGH
+Foggy,Icy,Low,Poor (100-500m),Late Night,30,Residential,Dark / No Lights,7,97,HIGH
+Overcast,Dry,Low,Moderate (500m-1km),Late Night,113,Highway,Daylight,19,48.5,MEDIUM
+Overcast,Icy,Heavy,Moderate (500m-1km),Afternoon,86,Urban Arterial,Dimly Lit,23,66.8,MEDIUM
+Clear,Potholes / Damaged,Moderate,Moderate (500m-1km),Evening Rush,75,Residential,Daylight,22,30.8,LOW
+Clear,Icy,Low,Poor (100-500m),Morning Rush,59,Urban Arterial,Well Lit Street,7,70.4,HIGH
+Rainy,Potholes / Damaged,Low,Good (>1km),Afternoon,34,Ghat / Mountain,Well Lit Street,6,68.4,MEDIUM
+Foggy,Under Construction,Heavy,Poor (100-500m),Morning Rush,86,Urban Arterial,Daylight,8,79.5,HIGH
+Snow,Under Construction,Congested,Very Poor (<100m),Morning Rush,58,Rural Single Lane,Well Lit Street,29,81.2,HIGH
+Foggy,Dry,Heavy,Very Poor (<100m),Afternoon,64,Rural Single Lane,Well Lit Street,32,73.1,HIGH
+Rainy,Potholes / Damaged,Congested,Poor (100-500m),Morning Rush,58,Ghat / Mountain,Well Lit Street,18,97,HIGH
+Clear,Wet,Moderate,Poor (100-500m),Dawn,89,Urban Arterial,Dimly Lit,25,56.0,MEDIUM
+Foggy,Dry,Congested,Good (>1km),Late Night,75,Residential,Well Lit Street,23,71.3,HIGH
+Snow,Dry,Low,Very Poor (<100m),Evening Rush,46,Urban Arterial,Well Lit Street,29,59.7,MEDIUM
+Rainy,Dry,Moderate,Poor (100-500m),Afternoon,103,Residential,Dark / No Lights,32,93.2,HIGH
+Foggy,Potholes / Damaged,Congested,Very Poor (<100m),Morning Rush,86,Rural Single Lane,Well Lit Street,19,95.0,HIGH
+Snow,Icy,Heavy,Very Poor (<100m),Afternoon,111,Ghat / Mountain,Dimly Lit,5,97,HIGH
+Overcast,Dry,Moderate,Good (>1km),Late Night,72,Residential,Dimly Lit,5,27.3,LOW
+Rainy,Wet,Heavy,Moderate (500m-1km),Afternoon,113,Rural Single Lane,Dark / No Lights,7,97,HIGH
+Clear,Under Construction,Heavy,Moderate (500m-1km),Late Night,112,Residential,Dark / No Lights,7,87.5,HIGH
+Foggy,Icy,Low,Very Poor (<100m),Morning Rush,56,Highway,Dimly Lit,21,92.5,HIGH
+Foggy,Dry,Congested,Moderate (500m-1km),Morning Rush,96,Residential,Daylight,25,76.3,HIGH
+Snow,Dry,Heavy,Very Poor (<100m),Afternoon,58,Rural Single Lane,Daylight,34,76.0,HIGH
+Clear,Dry,Heavy,Good (>1km),Late Night,67,Ghat / Mountain,Dark / No Lights,34,86.9,HIGH
+Snow,Icy,Heavy,Good (>1km),Evening Rush,99,Ghat / Mountain,Well Lit Street,19,97,HIGH
+Foggy,Dry,Low,Poor (100-500m),Evening Rush,86,Urban Arterial,Dark / No Lights,33,77.6,HIGH
+Clear,Icy,Congested,Good (>1km),Dawn,118,Ghat / Mountain,Well Lit Street,15,97,HIGH
+Overcast,Icy,Congested,Very Poor (<100m),Afternoon,38,Ghat / Mountain,Dark / No Lights,2,97,HIGH
+Snow,Potholes / Damaged,Moderate,Moderate (500m-1km),Dawn,48,Urban Arterial,Daylight,29,53.9,MEDIUM
+Foggy,Potholes / Damaged,Heavy,Poor (100-500m),Morning Rush,37,Highway,Dark / No Lights,12,97,HIGH
+Overcast,Dry,Heavy,Very Poor (<100m),Dawn,58,Rural Single Lane,Dark / No Lights,23,70.3,HIGH
+Foggy,Wet,Low,Moderate (500m-1km),Morning Rush,90,Urban Arterial,Daylight,23,54.8,MEDIUM
+Clear,Under Construction,Low,Very Poor (<100m),Afternoon,61,Highway,Daylight,33,38.4,LOW
+Snow,Icy,Congested,Good (>1km),Afternoon,67,Urban Arterial,Well Lit Street,34,90.3,HIGH
+Clear,Icy,Congested,Very Poor (<100m),Afternoon,87,Ghat / Mountain,Well Lit Street,11,97,HIGH
+Overcast,Wet,Low,Good (>1km),Afternoon,78,Urban Arterial,Daylight,27,36.9,LOW
+Clear,Dry,Moderate,Very Poor (<100m),Morning Rush,30,Highway,Daylight,26,37.7,LOW
+Overcast,Potholes / Damaged,Congested,Poor (100-500m),Dawn,76,Ghat / Mountain,Dimly Lit,22,89.9,HIGH
+Foggy,Potholes / Damaged,Moderate,Good (>1km),Dawn,71,Urban Arterial,Well Lit Street,10,57.9,MEDIUM
+Rainy,Potholes / Damaged,Heavy,Good (>1km),Late Night,104,Highway,Dark / No Lights,11,97,HIGH
+Rainy,Wet,Moderate,Good (>1km),Afternoon,48,Residential,Daylight,21,48.5,MEDIUM
+Rainy,Dry,Heavy,Poor (100-500m),Evening Rush,67,Rural Single Lane,Well Lit Street,32,69.6,MEDIUM
+Snow,Under Construction,Congested,Good (>1km),Morning Rush,64,Urban Arterial,Daylight,28,59.2,MEDIUM
+Overcast,Dry,Congested,Poor (100-500m),Evening Rush,59,Ghat / Mountain,Daylight,25,71.2,HIGH
+Snow,Potholes / Damaged,Congested,Moderate (500m-1km),Evening Rush,62,Urban Arterial,Dark / No Lights,11,94.2,HIGH
+Snow,Dry,Congested,Moderate (500m-1km),Afternoon,113,Rural Single Lane,Daylight,10,78.7,HIGH
+Rainy,Potholes / Damaged,Low,Moderate (500m-1km),Late Night,96,Highway,Daylight,20,84.1,HIGH
+Rainy,Potholes / Damaged,Moderate,Poor (100-500m),Dawn,47,Highway,Well Lit Street,6,67.8,MEDIUM
+Snow,Icy,Moderate,Good (>1km),Afternoon,86,Ghat / Mountain,Dimly Lit,19,95.3,HIGH
+Snow,Dry,Low,Moderate (500m-1km),Dawn,72,Rural Single Lane,Dimly Lit,13,39.4,LOW
+Rainy,Dry,Heavy,Poor (100-500m),Late Night,29,Highway,Daylight,21,86.3,HIGH
+Clear,Potholes / Damaged,Moderate,Very Poor (<100m),Late Night,115,Residential,Well Lit Street,15,85.3,HIGH
+Rainy,Dry,Low,Moderate (500m-1km),Late Night,111,Urban Arterial,Dark / No Lights,23,90.7,HIGH
+Rainy,Dry,Congested,Good (>1km),Late Night,111,Highway,Well Lit Street,21,86.3,HIGH
+Foggy,Potholes / Damaged,Heavy,Moderate (500m-1km),Evening Rush,29,Rural Single Lane,Well Lit Street,27,72.9,HIGH
+Overcast,Potholes / Damaged,Heavy,Good (>1km),Morning Rush,63,Residential,Dark / No Lights,8,69.3,MEDIUM
+Rainy,Dry,Low,Poor (100-500m),Morning Rush,49,Highway,Dark / No Lights,1,78.3,HIGH
+Clear,Under Construction,Moderate,Very Poor (<100m),Late Night,113,Rural Single Lane,Dimly Lit,14,72.6,HIGH
+Snow,Under Construction,Heavy,Moderate (500m-1km),Afternoon,38,Rural Single Lane,Daylight,14,60.2,MEDIUM
+Overcast,Under Construction,Heavy,Very Poor (<100m),Dawn,25,Urban Arterial,Dimly Lit,23,51.8,MEDIUM
+Overcast,Potholes / Damaged,Heavy,Good (>1km),Late Night,111,Residential,Dark / No Lights,15,97,HIGH
+Snow,Wet,Heavy,Poor (100-500m),Dawn,92,Urban Arterial,Well Lit Street,11,97,HIGH
+Rainy,Wet,Low,Moderate (500m-1km),Evening Rush,91,Ghat / Mountain,Dark / No Lights,4,97,HIGH
+Clear,Icy,Heavy,Good (>1km),Late Night,98,Residential,Dimly Lit,1,97,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Morning Rush,26,Rural Single Lane,Daylight,8,67.9,MEDIUM
+Rainy,Wet,Moderate,Moderate (500m-1km),Afternoon,116,Rural Single Lane,Dark / No Lights,15,91.3,HIGH
+Rainy,Under Construction,Moderate,Moderate (500m-1km),Dawn,89,Urban Arterial,Daylight,23,34.5,LOW
+Clear,Dry,Congested,Moderate (500m-1km),Afternoon,39,Highway,Daylight,11,28.8,LOW
+Foggy,Potholes / Damaged,Moderate,Good (>1km),Dawn,57,Urban Arterial,Dark / No Lights,24,74.3,HIGH
+Foggy,Under Construction,Congested,Very Poor (<100m),Morning Rush,25,Ghat / Mountain,Dimly Lit,8,95.8,HIGH
+Overcast,Wet,Congested,Poor (100-500m),Afternoon,27,Highway,Daylight,8,70.9,HIGH
+Rainy,Under Construction,Low,Moderate (500m-1km),Dawn,101,Ghat / Mountain,Dimly Lit,25,76.3,HIGH
+Snow,Under Construction,Heavy,Poor (100-500m),Evening Rush,113,Ghat / Mountain,Well Lit Street,30,97,HIGH
+Clear,Potholes / Damaged,Congested,Very Poor (<100m),Late Night,114,Rural Single Lane,Well Lit Street,19,97,HIGH
+Snow,Icy,Heavy,Moderate (500m-1km),Dawn,87,Residential,Dark / No Lights,16,97,HIGH
+Clear,Under Construction,Congested,Moderate (500m-1km),Dawn,71,Rural Single Lane,Daylight,34,28.7,LOW
+Snow,Wet,Heavy,Moderate (500m-1km),Evening Rush,83,Highway,Dark / No Lights,22,92.4,HIGH
+Snow,Potholes / Damaged,Heavy,Very Poor (<100m),Morning Rush,69,Residential,Dark / No Lights,19,97,HIGH
+Overcast,Icy,Low,Good (>1km),Evening Rush,74,Highway,Daylight,14,50.8,MEDIUM
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Late Night,81,Residential,Daylight,16,88.1,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Morning Rush,81,Urban Arterial,Daylight,3,49.5,MEDIUM
+Overcast,Wet,Moderate,Poor (100-500m),Morning Rush,28,Highway,Daylight,8,51.9,MEDIUM
+Clear,Dry,Moderate,Poor (100-500m),Afternoon,118,Urban Arterial,Daylight,25,57.8,MEDIUM
+Overcast,Wet,Low,Very Poor (<100m),Late Night,46,Highway,Daylight,8,66.1,MEDIUM
+Rainy,Potholes / Damaged,Moderate,Good (>1km),Late Night,55,Residential,Dimly Lit,17,59.0,MEDIUM
+Foggy,Under Construction,Low,Very Poor (<100m),Morning Rush,35,Ghat / Mountain,Dimly Lit,6,80.8,HIGH
+Foggy,Potholes / Damaged,Moderate,Very Poor (<100m),Morning Rush,59,Residential,Well Lit Street,35,78.9,HIGH
+Foggy,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,96,Rural Single Lane,Daylight,31,97,HIGH
+Foggy,Under Construction,Low,Good (>1km),Late Night,103,Highway,Dark / No Lights,28,92.0,HIGH
+Overcast,Under Construction,Moderate,Moderate (500m-1km),Dawn,108,Ghat / Mountain,Dark / No Lights,12,76.9,HIGH
+Rainy,Dry,Moderate,Very Poor (<100m),Morning Rush,69,Highway,Dimly Lit,30,52.8,MEDIUM
+Snow,Potholes / Damaged,Low,Moderate (500m-1km),Afternoon,97,Residential,Well Lit Street,13,81.9,HIGH
+Clear,Dry,Moderate,Moderate (500m-1km),Late Night,92,Highway,Well Lit Street,22,49.7,MEDIUM
+Clear,Potholes / Damaged,Moderate,Good (>1km),Morning Rush,107,Highway,Daylight,27,49.7,MEDIUM
+Overcast,Under Construction,Low,Poor (100-500m),Morning Rush,77,Ghat / Mountain,Dark / No Lights,32,76.2,HIGH
+Snow,Under Construction,Moderate,Very Poor (<100m),Morning Rush,83,Residential,Daylight,3,59.8,MEDIUM
+Rainy,Wet,Congested,Poor (100-500m),Morning Rush,66,Residential,Dark / No Lights,2,97,HIGH
+Overcast,Under Construction,Moderate,Good (>1km),Afternoon,104,Rural Single Lane,Well Lit Street,26,35.0,LOW
+Overcast,Under Construction,Heavy,Poor (100-500m),Late Night,114,Urban Arterial,Well Lit Street,26,87.6,HIGH
+Rainy,Potholes / Damaged,Moderate,Moderate (500m-1km),Dawn,67,Ghat / Mountain,Dimly Lit,32,64.7,MEDIUM
+Overcast,Potholes / Damaged,Heavy,Very Poor (<100m),Afternoon,69,Residential,Well Lit Street,5,64.1,MEDIUM
+Overcast,Dry,Low,Good (>1km),Afternoon,53,Ghat / Mountain,Daylight,13,30.6,LOW
+Snow,Dry,Heavy,Good (>1km),Afternoon,80,Residential,Dimly Lit,11,56.6,MEDIUM
+Rainy,Wet,Congested,Moderate (500m-1km),Dawn,112,Urban Arterial,Daylight,15,90.3,HIGH
+Overcast,Wet,Low,Moderate (500m-1km),Evening Rush,70,Residential,Dark / No Lights,12,52.9,MEDIUM
+Foggy,Icy,Congested,Moderate (500m-1km),Dawn,46,Highway,Dimly Lit,22,85.2,HIGH
+Snow,Dry,Congested,Good (>1km),Dawn,97,Ghat / Mountain,Daylight,13,95.6,HIGH
+Rainy,Under Construction,Low,Poor (100-500m),Afternoon,99,Residential,Dark / No Lights,9,97,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Evening Rush,59,Urban Arterial,Well Lit Street,26,53.8,MEDIUM
+Foggy,Icy,Moderate,Very Poor (<100m),Dawn,69,Residential,Dark / No Lights,9,97,HIGH
+Snow,Dry,Low,Very Poor (<100m),Afternoon,91,Urban Arterial,Dimly Lit,8,81.0,HIGH
+Foggy,Potholes / Damaged,Moderate,Good (>1km),Afternoon,98,Urban Arterial,Daylight,3,78.9,HIGH
+Snow,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,30,Ghat / Mountain,Dark / No Lights,9,97,HIGH
+Foggy,Dry,Moderate,Very Poor (<100m),Evening Rush,86,Ghat / Mountain,Dark / No Lights,30,97,HIGH
+Clear,Potholes / Damaged,Congested,Very Poor (<100m),Dawn,94,Residential,Dark / No Lights,20,97,HIGH
+Rainy,Icy,Congested,Poor (100-500m),Evening Rush,74,Rural Single Lane,Dimly Lit,7,97,HIGH
+Clear,Dry,Low,Good (>1km),Morning Rush,50,Highway,Well Lit Street,33,18.4,LOW
+Foggy,Wet,Congested,Very Poor (<100m),Dawn,97,Highway,Daylight,29,97,HIGH
+Snow,Potholes / Damaged,Low,Poor (100-500m),Dawn,73,Highway,Daylight,29,76.9,HIGH
+Rainy,Icy,Congested,Moderate (500m-1km),Late Night,111,Rural Single Lane,Daylight,15,97,HIGH
+Overcast,Wet,Congested,Moderate (500m-1km),Afternoon,66,Highway,Well Lit Street,7,52.5,MEDIUM
+Overcast,Under Construction,Heavy,Good (>1km),Afternoon,33,Urban Arterial,Dimly Lit,8,32.5,LOW
+Foggy,Under Construction,Heavy,Moderate (500m-1km),Late Night,38,Urban Arterial,Daylight,11,71.5,HIGH
+Clear,Wet,Congested,Good (>1km),Evening Rush,91,Urban Arterial,Daylight,9,68.2,MEDIUM
+Snow,Dry,Congested,Very Poor (<100m),Evening Rush,80,Ghat / Mountain,Dark / No Lights,17,97,HIGH
+Overcast,Dry,Heavy,Poor (100-500m),Afternoon,73,Residential,Daylight,11,52.9,MEDIUM
+Snow,Wet,Low,Moderate (500m-1km),Afternoon,90,Rural Single Lane,Dark / No Lights,9,80.2,HIGH
+Snow,Icy,Moderate,Moderate (500m-1km),Evening Rush,94,Residential,Dark / No Lights,6,97,HIGH
+Overcast,Dry,Congested,Moderate (500m-1km),Afternoon,41,Highway,Dimly Lit,20,30.6,LOW
+Overcast,Wet,Heavy,Poor (100-500m),Morning Rush,120,Urban Arterial,Dark / No Lights,13,97,HIGH
+Clear,Dry,Low,Good (>1km),Dawn,60,Rural Single Lane,Dark / No Lights,8,35.3,LOW
+Clear,Icy,Low,Moderate (500m-1km),Dawn,68,Ghat / Mountain,Dark / No Lights,21,87.9,HIGH
+Clear,Under Construction,Low,Very Poor (<100m),Dawn,93,Highway,Daylight,21,62.5,MEDIUM
+Rainy,Under Construction,Heavy,Poor (100-500m),Afternoon,62,Ghat / Mountain,Well Lit Street,33,92.6,HIGH
+Snow,Icy,Heavy,Poor (100-500m),Late Night,61,Urban Arterial,Dark / No Lights,17,97,HIGH
+Clear,Potholes / Damaged,Heavy,Good (>1km),Morning Rush,37,Highway,Well Lit Street,28,47.0,MEDIUM
+Foggy,Potholes / Damaged,Moderate,Poor (100-500m),Evening Rush,43,Residential,Well Lit Street,23,73.1,HIGH
+Clear,Under Construction,Moderate,Good (>1km),Dawn,88,Rural Single Lane,Well Lit Street,17,12.7,LOW
+Overcast,Dry,Low,Very Poor (<100m),Afternoon,55,Rural Single Lane,Daylight,34,37.6,LOW
+Foggy,Wet,Heavy,Moderate (500m-1km),Dawn,73,Urban Arterial,Dark / No Lights,3,90.5,HIGH
+Foggy,Under Construction,Low,Poor (100-500m),Morning Rush,120,Rural Single Lane,Daylight,32,84.5,HIGH
+Clear,Icy,Moderate,Good (>1km),Late Night,105,Rural Single Lane,Dark / No Lights,26,97,HIGH
+Snow,Wet,Congested,Moderate (500m-1km),Afternoon,76,Rural Single Lane,Dark / No Lights,34,95.3,HIGH
+Rainy,Under Construction,Congested,Very Poor (<100m),Dawn,89,Rural Single Lane,Daylight,7,72.6,HIGH
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Late Night,59,Ghat / Mountain,Daylight,7,97,HIGH
+Rainy,Under Construction,Moderate,Poor (100-500m),Evening Rush,86,Ghat / Mountain,Daylight,23,73.6,HIGH
+Overcast,Potholes / Damaged,Congested,Very Poor (<100m),Afternoon,37,Highway,Well Lit Street,20,65.6,MEDIUM
+Clear,Under Construction,Heavy,Poor (100-500m),Dawn,82,Residential,Daylight,27,52.2,MEDIUM
+Overcast,Dry,Moderate,Poor (100-500m),Afternoon,25,Highway,Well Lit Street,31,36.3,LOW
+Snow,Icy,Low,Very Poor (<100m),Afternoon,72,Urban Arterial,Well Lit Street,31,94.1,HIGH
+Foggy,Wet,Congested,Poor (100-500m),Evening Rush,101,Ghat / Mountain,Dimly Lit,10,97,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Afternoon,109,Urban Arterial,Daylight,24,87.2,HIGH
+Snow,Potholes / Damaged,Congested,Poor (100-500m),Afternoon,59,Urban Arterial,Well Lit Street,11,97,HIGH
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Late Night,103,Highway,Daylight,4,97,HIGH
+Foggy,Wet,Congested,Moderate (500m-1km),Evening Rush,35,Highway,Well Lit Street,5,70.2,HIGH
+Clear,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,59,Residential,Daylight,16,70.6,HIGH
+Clear,Under Construction,Moderate,Very Poor (<100m),Morning Rush,83,Urban Arterial,Well Lit Street,24,37.0,LOW
+Clear,Icy,Moderate,Very Poor (<100m),Dawn,26,Rural Single Lane,Dimly Lit,10,68.5,MEDIUM
+Foggy,Dry,Heavy,Very Poor (<100m),Evening Rush,34,Rural Single Lane,Dark / No Lights,17,97,HIGH
+Foggy,Potholes / Damaged,Moderate,Good (>1km),Dawn,108,Ghat / Mountain,Daylight,34,95.4,HIGH
+Snow,Under Construction,Low,Good (>1km),Late Night,36,Ghat / Mountain,Dimly Lit,11,70.0,HIGH
+Rainy,Dry,Heavy,Good (>1km),Late Night,116,Ghat / Mountain,Dark / No Lights,12,97,HIGH
+Foggy,Icy,Low,Good (>1km),Evening Rush,44,Highway,Daylight,5,69.8,MEDIUM
+Snow,Dry,Congested,Poor (100-500m),Morning Rush,92,Residential,Well Lit Street,24,97,HIGH
+Snow,Icy,Heavy,Very Poor (<100m),Evening Rush,77,Residential,Daylight,15,97,HIGH
+Foggy,Wet,Low,Good (>1km),Dawn,94,Rural Single Lane,Dimly Lit,23,77.3,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Afternoon,57,Rural Single Lane,Daylight,32,30.1,LOW
+Overcast,Wet,Heavy,Poor (100-500m),Late Night,42,Residential,Well Lit Street,18,85.3,HIGH
+Snow,Wet,Heavy,Good (>1km),Late Night,95,Residential,Well Lit Street,15,97,HIGH
+Overcast,Potholes / Damaged,Heavy,Moderate (500m-1km),Evening Rush,46,Residential,Daylight,2,46.7,MEDIUM
+Foggy,Potholes / Damaged,Low,Good (>1km),Morning Rush,97,Highway,Dark / No Lights,6,93.9,HIGH
+Overcast,Dry,Low,Good (>1km),Late Night,73,Ghat / Mountain,Daylight,10,50.8,MEDIUM
+Clear,Under Construction,Moderate,Moderate (500m-1km),Evening Rush,77,Urban Arterial,Dark / No Lights,13,37.7,LOW
+Snow,Icy,Moderate,Good (>1km),Late Night,42,Ghat / Mountain,Dark / No Lights,17,97,HIGH
+Rainy,Icy,Congested,Good (>1km),Evening Rush,36,Highway,Well Lit Street,2,82.2,HIGH
+Overcast,Under Construction,Low,Good (>1km),Late Night,101,Ghat / Mountain,Well Lit Street,24,66.9,MEDIUM
+Snow,Under Construction,Low,Good (>1km),Late Night,74,Highway,Daylight,17,59.0,MEDIUM
+Rainy,Dry,Low,Poor (100-500m),Morning Rush,65,Rural Single Lane,Daylight,24,52.0,MEDIUM
+Clear,Icy,Heavy,Good (>1km),Late Night,104,Ghat / Mountain,Dark / No Lights,9,97,HIGH
+Snow,Under Construction,Moderate,Good (>1km),Late Night,31,Ghat / Mountain,Dark / No Lights,2,92.9,HIGH
+Rainy,Icy,Heavy,Good (>1km),Afternoon,50,Rural Single Lane,Well Lit Street,14,86.3,HIGH
+Overcast,Wet,Heavy,Good (>1km),Late Night,88,Ghat / Mountain,Daylight,2,84.1,HIGH
+Foggy,Potholes / Damaged,Low,Very Poor (<100m),Dawn,50,Residential,Daylight,3,78.2,HIGH
+Rainy,Wet,Heavy,Good (>1km),Evening Rush,110,Residential,Well Lit Street,31,92.6,HIGH
+Rainy,Under Construction,Heavy,Good (>1km),Dawn,84,Urban Arterial,Dimly Lit,26,45.9,MEDIUM
+Foggy,Under Construction,Moderate,Moderate (500m-1km),Evening Rush,86,Urban Arterial,Dimly Lit,8,39.2,LOW
+Foggy,Potholes / Damaged,Low,Good (>1km),Late Night,78,Residential,Dark / No Lights,15,84.3,HIGH
+Foggy,Wet,Congested,Good (>1km),Morning Rush,55,Rural Single Lane,Daylight,26,74.8,HIGH
+Rainy,Wet,Moderate,Very Poor (<100m),Evening Rush,51,Urban Arterial,Dark / No Lights,14,96.0,HIGH
+Foggy,Potholes / Damaged,Low,Moderate (500m-1km),Morning Rush,72,Rural Single Lane,Dimly Lit,34,57.3,MEDIUM
+Clear,Dry,Moderate,Moderate (500m-1km),Morning Rush,25,Highway,Dimly Lit,32,13.8,LOW
+Snow,Icy,Heavy,Poor (100-500m),Evening Rush,94,Highway,Dimly Lit,16,97,HIGH
+Snow,Icy,Moderate,Good (>1km),Evening Rush,97,Urban Arterial,Dimly Lit,8,94.2,HIGH
+Snow,Wet,Congested,Poor (100-500m),Dawn,105,Ghat / Mountain,Dark / No Lights,10,97,HIGH
+Foggy,Icy,Congested,Poor (100-500m),Evening Rush,28,Ghat / Mountain,Dark / No Lights,13,97,HIGH
+Snow,Dry,Heavy,Moderate (500m-1km),Dawn,66,Highway,Dimly Lit,14,59.1,MEDIUM
+Snow,Wet,Heavy,Good (>1km),Evening Rush,100,Urban Arterial,Dimly Lit,20,93.7,HIGH
+Clear,Dry,Moderate,Poor (100-500m),Late Night,85,Urban Arterial,Daylight,7,52.5,MEDIUM
+Foggy,Wet,Heavy,Moderate (500m-1km),Dawn,74,Rural Single Lane,Dimly Lit,30,74.9,HIGH
+Foggy,Under Construction,Moderate,Poor (100-500m),Dawn,79,Ghat / Mountain,Well Lit Street,25,75.9,HIGH
+Snow,Icy,Low,Very Poor (<100m),Late Night,103,Rural Single Lane,Daylight,31,97,HIGH
+Foggy,Dry,Heavy,Good (>1km),Dawn,101,Ghat / Mountain,Dimly Lit,32,93.9,HIGH
+Snow,Under Construction,Heavy,Very Poor (<100m),Morning Rush,87,Urban Arterial,Well Lit Street,17,76.7,HIGH
+Snow,Under Construction,Moderate,Good (>1km),Morning Rush,120,Rural Single Lane,Daylight,23,60.5,MEDIUM
+Overcast,Icy,Low,Good (>1km),Dawn,105,Ghat / Mountain,Daylight,27,87.1,HIGH
+Clear,Dry,Low,Poor (100-500m),Morning Rush,68,Urban Arterial,Dimly Lit,34,39.7,LOW
+Clear,Wet,Moderate,Poor (100-500m),Afternoon,60,Rural Single Lane,Dark / No Lights,12,75.2,HIGH
+Overcast,Dry,Low,Poor (100-500m),Afternoon,68,Urban Arterial,Daylight,15,34.8,LOW
+Rainy,Under Construction,Congested,Very Poor (<100m),Evening Rush,36,Urban Arterial,Dimly Lit,11,73.0,HIGH
+Foggy,Wet,Moderate,Good (>1km),Late Night,114,Urban Arterial,Dimly Lit,19,89.6,HIGH
+Clear,Wet,Heavy,Moderate (500m-1km),Morning Rush,80,Highway,Well Lit Street,22,51.4,MEDIUM
+Clear,Icy,Moderate,Moderate (500m-1km),Afternoon,32,Highway,Daylight,3,49.2,MEDIUM
+Snow,Dry,Moderate,Very Poor (<100m),Late Night,120,Highway,Daylight,26,97,HIGH
+Snow,Under Construction,Heavy,Very Poor (<100m),Afternoon,117,Rural Single Lane,Dark / No Lights,4,97,HIGH
+Foggy,Potholes / Damaged,Heavy,Good (>1km),Afternoon,118,Highway,Dimly Lit,30,88.8,HIGH
+Clear,Dry,Congested,Moderate (500m-1km),Afternoon,75,Ghat / Mountain,Daylight,27,46.4,MEDIUM
+Foggy,Wet,Moderate,Poor (100-500m),Late Night,51,Residential,Dimly Lit,10,89.0,HIGH
+Snow,Under Construction,Low,Poor (100-500m),Morning Rush,30,Highway,Dark / No Lights,13,83.7,HIGH
+Overcast,Dry,Low,Very Poor (<100m),Dawn,59,Rural Single Lane,Dimly Lit,35,40.6,LOW
+Overcast,Under Construction,Heavy,Very Poor (<100m),Evening Rush,94,Urban Arterial,Dark / No Lights,7,96.1,HIGH
+Overcast,Icy,Low,Good (>1km),Afternoon,65,Urban Arterial,Dimly Lit,19,45.6,MEDIUM
+Snow,Dry,Moderate,Moderate (500m-1km),Evening Rush,107,Highway,Dark / No Lights,12,85.5,HIGH
+Overcast,Wet,Low,Good (>1km),Morning Rush,70,Urban Arterial,Dimly Lit,14,36.6,LOW
+Clear,Wet,Congested,Good (>1km),Morning Rush,108,Highway,Dark / No Lights,21,90.9,HIGH
+Clear,Dry,Low,Good (>1km),Afternoon,89,Urban Arterial,Dark / No Lights,3,34.7,LOW
+Clear,Dry,Low,Very Poor (<100m),Late Night,53,Residential,Well Lit Street,5,48.3,MEDIUM
+Clear,Under Construction,Heavy,Good (>1km),Afternoon,86,Highway,Dimly Lit,4,27.4,LOW
+Foggy,Wet,Heavy,Poor (100-500m),Dawn,119,Rural Single Lane,Well Lit Street,19,97,HIGH
+Rainy,Icy,Heavy,Very Poor (<100m),Late Night,102,Urban Arterial,Dimly Lit,12,97,HIGH
+Clear,Potholes / Damaged,Low,Moderate (500m-1km),Late Night,78,Highway,Dark / No Lights,8,63.1,MEDIUM
+Clear,Dry,Congested,Moderate (500m-1km),Late Night,99,Ghat / Mountain,Dimly Lit,24,85.1,HIGH
+Overcast,Potholes / Damaged,Moderate,Very Poor (<100m),Morning Rush,115,Highway,Daylight,11,74.3,HIGH
+Foggy,Wet,Congested,Very Poor (<100m),Afternoon,69,Urban Arterial,Dark / No Lights,3,97,HIGH
+Clear,Under Construction,Congested,Poor (100-500m),Evening Rush,93,Rural Single Lane,Daylight,7,72.3,HIGH
+Overcast,Icy,Heavy,Moderate (500m-1km),Afternoon,55,Rural Single Lane,Dark / No Lights,31,81.2,HIGH
+Overcast,Potholes / Damaged,Moderate,Moderate (500m-1km),Evening Rush,93,Highway,Well Lit Street,19,53.1,MEDIUM
+Foggy,Dry,Heavy,Moderate (500m-1km),Morning Rush,34,Urban Arterial,Well Lit Street,14,58.8,MEDIUM
+Rainy,Potholes / Damaged,Congested,Poor (100-500m),Afternoon,57,Highway,Well Lit Street,34,84.4,HIGH
+Foggy,Dry,Moderate,Good (>1km),Morning Rush,30,Residential,Daylight,15,42.9,MEDIUM
+Rainy,Under Construction,Moderate,Moderate (500m-1km),Afternoon,82,Urban Arterial,Dark / No Lights,31,53.9,MEDIUM
+Snow,Wet,Moderate,Moderate (500m-1km),Morning Rush,62,Residential,Dimly Lit,27,61.7,MEDIUM
+Rainy,Dry,Low,Poor (100-500m),Evening Rush,113,Residential,Dark / No Lights,13,97,HIGH
+Overcast,Icy,Congested,Good (>1km),Late Night,39,Highway,Dimly Lit,35,82.4,HIGH
+Rainy,Wet,Moderate,Very Poor (<100m),Evening Rush,57,Residential,Dark / No Lights,14,93.6,HIGH
+Clear,Icy,Low,Moderate (500m-1km),Morning Rush,95,Highway,Dark / No Lights,4,92.7,HIGH
+Rainy,Potholes / Damaged,Congested,Good (>1km),Dawn,52,Ghat / Mountain,Dimly Lit,8,85.2,HIGH
+Clear,Dry,Heavy,Moderate (500m-1km),Late Night,54,Rural Single Lane,Dimly Lit,14,41.4,LOW
+Snow,Dry,Moderate,Very Poor (<100m),Morning Rush,104,Residential,Well Lit Street,32,83.1,HIGH
+Foggy,Wet,Heavy,Good (>1km),Late Night,112,Urban Arterial,Well Lit Street,9,97,HIGH
+Clear,Wet,Heavy,Moderate (500m-1km),Morning Rush,54,Rural Single Lane,Dark / No Lights,17,70.4,HIGH
+Rainy,Potholes / Damaged,Congested,Very Poor (<100m),Late Night,111,Rural Single Lane,Dimly Lit,10,97,HIGH
+Clear,Dry,Heavy,Poor (100-500m),Morning Rush,109,Highway,Well Lit Street,11,72.1,HIGH
+Foggy,Icy,Heavy,Moderate (500m-1km),Dawn,107,Residential,Dimly Lit,33,97,HIGH
+Snow,Dry,Low,Good (>1km),Evening Rush,76,Urban Arterial,Daylight,33,41.9,LOW
+Rainy,Dry,Moderate,Very Poor (<100m),Morning Rush,61,Ghat / Mountain,Dimly Lit,10,69.8,MEDIUM
+Foggy,Under Construction,Low,Poor (100-500m),Afternoon,105,Ghat / Mountain,Dark / No Lights,22,97,HIGH
+Snow,Dry,Congested,Good (>1km),Evening Rush,58,Urban Arterial,Well Lit Street,26,53.2,MEDIUM
+Foggy,Icy,Heavy,Very Poor (<100m),Evening Rush,110,Urban Arterial,Dimly Lit,5,97,HIGH
+Rainy,Potholes / Damaged,Heavy,Very Poor (<100m),Dawn,116,Residential,Daylight,23,97,HIGH
+Snow,Under Construction,Moderate,Poor (100-500m),Late Night,71,Rural Single Lane,Well Lit Street,8,74.4,HIGH
+Clear,Icy,Heavy,Very Poor (<100m),Evening Rush,42,Rural Single Lane,Dimly Lit,28,83.2,HIGH
+Overcast,Potholes / Damaged,Heavy,Good (>1km),Late Night,43,Highway,Dimly Lit,26,57.6,MEDIUM
+Foggy,Potholes / Damaged,Heavy,Good (>1km),Dawn,98,Highway,Daylight,5,92.3,HIGH
+Foggy,Potholes / Damaged,Heavy,Very Poor (<100m),Afternoon,91,Residential,Daylight,26,97,HIGH
+Foggy,Icy,Congested,Very Poor (<100m),Dawn,47,Urban Arterial,Dark / No Lights,16,97,HIGH
+Foggy,Under Construction,Congested,Very Poor (<100m),Afternoon,80,Urban Arterial,Dimly Lit,23,76.4,HIGH
+Rainy,Icy,Congested,Poor (100-500m),Morning Rush,44,Ghat / Mountain,Well Lit Street,10,97,HIGH
+Overcast,Under Construction,Congested,Moderate (500m-1km),Late Night,72,Urban Arterial,Daylight,17,44.6,MEDIUM
+Foggy,Icy,Low,Moderate (500m-1km),Dawn,56,Rural Single Lane,Dark / No Lights,5,92.4,HIGH
+Clear,Icy,Moderate,Very Poor (<100m),Late Night,50,Ghat / Mountain,Dark / No Lights,35,97,HIGH
+Clear,Dry,Low,Poor (100-500m),Morning Rush,105,Rural Single Lane,Daylight,30,59.1,MEDIUM
+Overcast,Dry,Moderate,Moderate (500m-1km),Morning Rush,98,Residential,Daylight,14,35.4,LOW
+Clear,Dry,Moderate,Good (>1km),Evening Rush,63,Residential,Dark / No Lights,8,38.7,LOW
+Foggy,Icy,Congested,Moderate (500m-1km),Evening Rush,66,Highway,Dark / No Lights,24,97,HIGH
+Overcast,Icy,Low,Poor (100-500m),Evening Rush,64,Highway,Dimly Lit,35,72.1,HIGH
+Rainy,Wet,Heavy,Poor (100-500m),Late Night,91,Urban Arterial,Dark / No Lights,19,97,HIGH
+Clear,Icy,Congested,Moderate (500m-1km),Dawn,69,Highway,Dark / No Lights,7,82.0,HIGH
+Clear,Dry,Moderate,Moderate (500m-1km),Afternoon,101,Rural Single Lane,Daylight,6,36.6,LOW
+Snow,Dry,Low,Poor (100-500m),Dawn,85,Residential,Dimly Lit,23,63.7,MEDIUM
+Foggy,Under Construction,Moderate,Good (>1km),Late Night,77,Residential,Well Lit Street,20,50.7,MEDIUM
+Clear,Potholes / Damaged,Heavy,Poor (100-500m),Late Night,43,Residential,Dark / No Lights,1,97,HIGH
+Foggy,Potholes / Damaged,Moderate,Moderate (500m-1km),Afternoon,87,Residential,Dimly Lit,12,51.5,MEDIUM
+Rainy,Wet,Congested,Very Poor (<100m),Morning Rush,101,Highway,Daylight,11,97,HIGH
+Foggy,Wet,Low,Good (>1km),Afternoon,96,Rural Single Lane,Daylight,1,76.6,HIGH
+Overcast,Under Construction,Congested,Good (>1km),Dawn,85,Ghat / Mountain,Dimly Lit,3,46.5,MEDIUM
+Foggy,Under Construction,Heavy,Poor (100-500m),Morning Rush,43,Rural Single Lane,Daylight,14,79.3,HIGH
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Morning Rush,72,Rural Single Lane,Well Lit Street,26,48.2,MEDIUM
+Overcast,Under Construction,Moderate,Very Poor (<100m),Evening Rush,88,Rural Single Lane,Well Lit Street,21,34.9,LOW
+Clear,Dry,Moderate,Moderate (500m-1km),Evening Rush,38,Rural Single Lane,Well Lit Street,1,18.3,LOW
+Clear,Wet,Heavy,Good (>1km),Morning Rush,37,Highway,Daylight,28,48.2,MEDIUM
+Rainy,Under Construction,Low,Very Poor (<100m),Morning Rush,71,Urban Arterial,Daylight,11,57.8,MEDIUM
+Foggy,Under Construction,Low,Moderate (500m-1km),Dawn,93,Rural Single Lane,Well Lit Street,33,63.8,MEDIUM
+Clear,Dry,Moderate,Poor (100-500m),Morning Rush,47,Residential,Daylight,7,37.8,LOW
+Clear,Dry,Moderate,Good (>1km),Dawn,53,Rural Single Lane,Daylight,15,14.2,LOW
+Clear,Icy,Moderate,Good (>1km),Afternoon,105,Highway,Dimly Lit,20,71.8,HIGH
+Snow,Potholes / Damaged,Low,Very Poor (<100m),Afternoon,108,Ghat / Mountain,Daylight,32,97,HIGH
+Snow,Potholes / Damaged,Heavy,Good (>1km),Late Night,35,Urban Arterial,Well Lit Street,16,89.5,HIGH
+Foggy,Dry,Heavy,Poor (100-500m),Morning Rush,33,Residential,Daylight,24,79.7,HIGH
+Overcast,Icy,Moderate,Very Poor (<100m),Dawn,77,Rural Single Lane,Well Lit Street,33,70.9,HIGH
+Rainy,Wet,Low,Moderate (500m-1km),Morning Rush,99,Residential,Dark / No Lights,3,91.5,HIGH
+Rainy,Wet,Congested,Good (>1km),Late Night,103,Urban Arterial,Well Lit Street,35,97,HIGH
+Snow,Icy,Heavy,Good (>1km),Dawn,119,Residential,Dark / No Lights,10,97,HIGH
+Clear,Under Construction,Low,Good (>1km),Afternoon,31,Ghat / Mountain,Dark / No Lights,11,49.5,MEDIUM
+Clear,Dry,Moderate,Moderate (500m-1km),Evening Rush,54,Rural Single Lane,Well Lit Street,9,15.3,LOW
+Clear,Icy,Heavy,Very Poor (<100m),Evening Rush,61,Highway,Well Lit Street,4,86.5,HIGH
+Clear,Under Construction,Low,Moderate (500m-1km),Morning Rush,86,Highway,Daylight,1,17.7,LOW
+Overcast,Dry,Heavy,Very Poor (<100m),Afternoon,43,Residential,Dark / No Lights,12,73.2,HIGH
+Foggy,Potholes / Damaged,Low,Poor (100-500m),Afternoon,112,Rural Single Lane,Dark / No Lights,11,97,HIGH
+Snow,Icy,Low,Poor (100-500m),Morning Rush,72,Highway,Well Lit Street,33,97,HIGH
+Clear,Under Construction,Heavy,Very Poor (<100m),Morning Rush,55,Rural Single Lane,Well Lit Street,33,52.4,MEDIUM
+Clear,Potholes / Damaged,Low,Very Poor (<100m),Evening Rush,77,Ghat / Mountain,Daylight,6,73.2,HIGH
+Rainy,Dry,Moderate,Poor (100-500m),Evening Rush,120,Rural Single Lane,Dark / No Lights,10,97,HIGH
+Clear,Under Construction,Low,Poor (100-500m),Evening Rush,54,Rural Single Lane,Well Lit Street,11,34.1,LOW
+Clear,Under Construction,Congested,Moderate (500m-1km),Late Night,60,Ghat / Mountain,Dimly Lit,30,60.3,MEDIUM
+Foggy,Icy,Low,Good (>1km),Dawn,60,Highway,Daylight,8,74.5,HIGH
+Overcast,Under Construction,Heavy,Very Poor (<100m),Morning Rush,87,Urban Arterial,Daylight,12,53.6,MEDIUM
+Foggy,Dry,Moderate,Good (>1km),Afternoon,61,Ghat / Mountain,Daylight,3,54.0,MEDIUM
+Foggy,Icy,Heavy,Poor (100-500m),Evening Rush,93,Rural Single Lane,Dark / No Lights,13,97,HIGH
+Rainy,Under Construction,Congested,Moderate (500m-1km),Late Night,99,Ghat / Mountain,Dimly Lit,27,97,HIGH
+Clear,Potholes / Damaged,Heavy,Moderate (500m-1km),Morning Rush,43,Residential,Dark / No Lights,11,68.7,MEDIUM
+Overcast,Icy,Moderate,Very Poor (<100m),Late Night,27,Residential,Daylight,13,88.5,HIGH
+Foggy,Dry,Heavy,Poor (100-500m),Morning Rush,59,Highway,Dimly Lit,25,75.8,HIGH
